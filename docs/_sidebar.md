@@ -1,10 +1,9 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Diretrizes](/docs/Diretrizes/Diretrizes.md)
+- [Home](/docs/README.md)
+
 
 - **Ata de Reuniões**
-
 
 - **Base**
   - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
