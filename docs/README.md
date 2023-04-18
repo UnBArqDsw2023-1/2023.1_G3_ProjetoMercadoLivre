@@ -19,6 +19,8 @@ O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá 
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 
+![BPMNmetodologia](./Assets/BPMNMetodologias.jpeg)
+
 
 ## Screenshots Segunda Entrega <<FOCO:Modelagem&>>
 
