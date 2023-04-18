@@ -1,10 +1,21 @@
-# RepositorioTemplate
+# 2023.1_G3_ProjetoMercadoLivre
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+Esse é o repositório de documentação da equipe.
 
-## Introdução
+# Mercado Livre
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: 03
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 20/0028472  |  Vinícius Assumpção de Araújo |
+
+
+## Sobre 
+O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá as necessidades de um cliente e um vendedor da plataforma Mercado Livre em relação aos processos de reclamação, estorno, devolução e/ou troca.<br>
+
 
 ## Tecnologia
 
