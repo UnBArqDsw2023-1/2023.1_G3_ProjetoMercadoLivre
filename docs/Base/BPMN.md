@@ -22,7 +22,7 @@ A ferramenta usada foi o site: lucidchart.com
 
 ## 2. BPMN Produto
 
-![BPMN Produto](/docs/Assets/BPNM_Produto.png)
+![BPMNProduto](/docs/Assets/BPMN_Produto.png)
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
