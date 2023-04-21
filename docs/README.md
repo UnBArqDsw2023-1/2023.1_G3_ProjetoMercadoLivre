@@ -22,6 +22,8 @@ O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá 
 ## Screenshots Primeira Entrega 
 
 ![BPMNmetodologia](./Assets/BPMNMetodologias.jpeg)
+![BPMNmetodologia](./Assets/BPMN_Produto.png)
+
 
 
 ## Screenshots Segunda Entrega <<FOCO:Modelagem&>>
