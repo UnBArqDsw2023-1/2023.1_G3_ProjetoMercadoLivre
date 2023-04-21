@@ -26,7 +26,7 @@ A ferramenta usada foi o site: lucidchart.com
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 18/04/2023 |  0.1   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27) [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
+| 18/04/2023 |  0.1   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
 
 ## Referências Bibliográficas
 
