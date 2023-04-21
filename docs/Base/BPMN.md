@@ -22,11 +22,11 @@ A ferramenta usada foi o site: lucidchart.com
 
 ## 2. BPMN Produto
 
-![BPMN Produto]()
+![BPMN Produto](/docs/Assets/BPNM_Produto.png)
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 17/11/2022 |  0.1   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27) [João Pedro]()| [Gabriel Roger](https://github.com/)   |
+| 18/04/2023 |  0.1   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27) [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
 
 ## Referências Bibliográficas
 
