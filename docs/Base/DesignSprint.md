@@ -104,30 +104,43 @@ A metodologia XP, por ser um método de desenvolvimento que preza o bem estar da
 
 * **Padronização do código:** Todo código é desenvolvido seguindo um padrão, qualquer que seja, mas toda equipe deve seguir o mesmo padrão. Dessa forma, todos da equipe terão a mesma visão do código.
 
+## 5. **Escolha dos Artefatos**
+A escolha dos artefatos deve-se a sua simplicidade e eficiência. Xp, SCRUM e Kanban costumam ser as metodologias favoritas para projetos de curto prazo que visam maior flexibilidade.
 
+Outro motivo da escolha é devido à familiaridade do grupo com tais abordagens. O simples fato de todos integrantes do grupo já estarem envolvidos em projetos que aplicavam os artefatos apresentados.
 
+## 6. **Modelagem BPMN**
+A modelagem BPMN é um diagrama que modela os processos  de negócio do produto. Nele contém um fluxograma que passa por cada etapa dentro de um processo.
 
+Elaboramos um fluxograma que especifica nossa abordagem metodológica e do fluxo selecionado. Utilizamos como ponto de início do evento nossas sprints, além de tarefas e *gateways* para especificar ações e decisões tomadas. Então separamos em piscinas, que sugerem a que parte do processo pertence aquele atividade/ação.
 
+## 7. Comunicação
+Devido ao tamanho do grupo e devido ao trabalho exigir horas extra classe, definimos as ferramentas que utilizaremos para auxiliar na comunicação da equipe.
 
+### 7.1. Discord
+O Discord é uma das maiores ferramentas de comunicação do time. Foi criado um servidor somente para a interação da equipe, utilizado para reuniões e pareamentos. Além disso, também foi instaciado um webhook, para receber notificações do GitHub.
 
+Também é utilizado o servidor da disciplina, onde é feita a comunicação com os clientes do projeto e o professor.
 
+### 7.2 Telegram
+Além do Discord, a comunicação do time também é feita pelo Telegram, onde são feitas discussões mais objetivas e pontuais.
 
+## 8. Referências bibliográficas
 
+> Deisy Braz S., COMBINAÇÃO DE MÉTODOS ÁGEIS NO PROCESSO DE DESENVOLVIMENTO DE SOFTWARE: UM ESTUDO DE CASO. Disponível em: <https://periodicos.uniarp.edu.br/index.php/ignis/article/download/1133/570/4664>
 
+> SCRUM. Disponível em: <http://www.desenvolvimentoagil.com.br/scrum/>
 
+> T.L., Métodos ágeis: o que são e como impactam o seu negócio? Disponível em: <https://www.lumis.com.br/a-lumis/blog/metodos-ageis.htm#:~:text=As%20metodologias%20%C3%A1geis%20s%C3%A3o%20uma,revistos%20com%20os%20m%C3%A9todos%20%C3%A1geis.>
 
+> Object Management Group Business Process Model and Notation, Disponível em: <https://www.bpmn.org/>
 
+> Prof. Milene Serrano, disciplina Arquitetura e Desenho de Software. Base - Metodologia, BPMN
 
-
-
-
-
-
-
-
-
+## 9. Versionamento
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 18/04/2023 |  0.1   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
-| 21/04/2023 |  0.2   | Processos, Metodologias e Abordagens | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27)|
+| 18/04/2023 |  1.0   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
+| 21/04/2023 |  1.1   | Processos, Metodologias e Abordagens | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27)|
+| 22/04/2023 |  1.2   | Escolha dos artefatos, BPMN, Comunicação e Referências Bibliográficas | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Vinícius Assumpção](https://github.com/viniman27) |
