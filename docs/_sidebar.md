@@ -14,7 +14,7 @@
       - [Rich Picture]() 
       - [Mapa Mental]()
     - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
-      - [BPMN](/docs/Base/BPMN.md)
+      - [BPMN](Base/BPMN.md)
     - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
 
 - **Modelagem**
