@@ -131,7 +131,7 @@ Além do Discord, a comunicação do time também é feita pelo Telegram, onde s
 
 > SCRUM. Disponível em: <http://www.desenvolvimentoagil.com.br/scrum/>
 
-> T.L., Métodos ágeis: o que são e como impactam o seu negócio? Disponível em: <https://www.lumis.com.br/a-lumis/blog/metodos-ageis.htm#:~:text=As%20metodologias%20%C3%A1geis%20s%C3%A3o%20uma,revistos%20com%20os%20m%C3%A9todos%20%C3%A1geis.>
+> T.L., Métodos ágeis: o que são e como impactam o seu negócio? Disponível em: [https://www.lumis.com.br/a-lumis/blog/metodos-ageis...](https://www.lumis.com.br/a-lumis/blog/metodos-ageis.htm#:~:text=As%20metodologias%20%C3%A1geis%20s%C3%A3o%20uma,revistos%20com%20os%20m%C3%A9todos%20%C3%A1geis.)
 
 > Object Management Group Business Process Model and Notation, Disponível em: <https://www.bpmn.org/>
 
@@ -144,3 +144,4 @@ Além do Discord, a comunicação do time também é feita pelo Telegram, onde s
 | 18/04/2023 |  1.0   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
 | 21/04/2023 |  1.1   | Processos, Metodologias e Abordagens | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27)|
 | 22/04/2023 |  1.2   | Escolha dos artefatos, BPMN, Comunicação e Referências Bibliográficas | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Vinícius Assumpção](https://github.com/viniman27) |
+|22/04/2023| 1.2.1 | Concertando link que quebra pagina | [Erick levy](https://github.com/Ericklevy) | |

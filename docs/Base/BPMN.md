@@ -18,15 +18,20 @@ A ferramenta usada foi o site: lucidchart.com
 
 ## 1. BPMN Metodologia
 
-![BPMN Metodologia](/docs/Assets/BPMNMetodologias.jpeg)
+![](../Assets/BPMNMetodologias.jpeg)
+
+<h6 align='center'>Fonte: Autoria do grupo</h6>
 
 ## 2. BPMN Produto
 
-![BPMNProduto](/docs/Assets/BPMN_Produto.png)
+![](../Assets/BPMN_Produto.png)
+
+<h6 align='center'>Fonte: Autoria do grupo</h6>
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 18/04/2023 |  0.1   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
+| 18/04/2023 |  1.0   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
+|22/04/2023| 1.0.1 | Correção de caminho das imagens | [Erick levy](https://github.com/Ericklevy) | |
 
 ## Referências Bibliográficas
 
