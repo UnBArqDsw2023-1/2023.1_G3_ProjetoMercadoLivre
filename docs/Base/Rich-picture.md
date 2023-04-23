@@ -42,6 +42,11 @@
 * Quando e onde recebo o dinheiro da minha devolução. Disponível em: <https://www.mercadolivre.com.br/ajuda/5266>. Acesso em: 19 abr. 2023.
 * Como fazer uma reclamação no Mercado Livre? Disponível em: <https://www.tecmundo.com.br/internet/220659-fazer-reclamacao-mercado-livre.htm>. Acesso em: 20 abr. 2023.
 
+MANK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for
+Reasoning About Work Context. Oxford, 1998.
+
+REVADI, Chindy. CTEC2402 Rich Picture Guidelines.
+
 ‌ 
 ## 5. Versionamento
 
