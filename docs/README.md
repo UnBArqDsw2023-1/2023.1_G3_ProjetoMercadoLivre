@@ -12,7 +12,7 @@ Esse é o repositório de documentação da equipe.
 | -- | -- |
 | 20/0028472  |  [Vinícius Assumpção](https://github.com/viniman27) |
 | 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
-| 20/0020650  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 20/0018248  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 
 
 ## Sobre 
@@ -20,6 +20,8 @@ O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá 
 
 
 ## Screenshots Primeira Entrega 
+
+### BPMN
 
 ![BPMNmetodologia](./Assets/BPMNMetodologias.jpeg)
 ![BPMNProduto](./Assets/BPMN_Produto.png)
