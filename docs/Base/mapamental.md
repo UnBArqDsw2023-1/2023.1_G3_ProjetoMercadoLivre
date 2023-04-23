@@ -31,4 +31,4 @@ SBCOACHING. **Mapa Mental: O que é e Como Fazer**. Disponível em: [https://www
 ### Histórico de versão<br>
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
-| 11.02.2021 | 0.1 | Criação do documento | Abdul Hannan |  |<br>
+| 22/04/2023 | 1.0 | Criação do documento | Abdul Hannan ,Lucas |  |<br>
