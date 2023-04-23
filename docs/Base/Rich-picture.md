@@ -19,7 +19,7 @@
 
 ### 3.1 Fluxo de devolução e estorno de um produto
 
-![Fluxo de devolução e estorno de um produto](../assets/images/fluxo_devolucao.jpeg)
+![Fluxo de devolução e estorno de um produto](../Assets/fluxo_devolucao.jpeg)
 
 <figcaption align='center'>
     <b>Figura 1 : Fluxo de devolução e estorno de um produto</b>
@@ -29,7 +29,7 @@
 
 ### 3.2 Fluxo de reclamação
 
-![Fluxo de reclamação](../assets/images/fluxo_reclamacao.jpeg)
+![Fluxo de reclamação](../Assets/fluxo_reclamacao.jpeg)
 
 <figcaption align='center'>
     <b>Figura 2 : Fluxo de reclamação</b>
