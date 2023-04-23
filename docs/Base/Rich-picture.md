@@ -36,3 +36,16 @@
     <br><small>Fonte: Elaboração Própria</small>
     <br><small>Autor: Rodolfo Neves</small>
 </figcaption>
+
+## 4. Referências bibliográficas
+
+* Quando e onde recebo o dinheiro da minha devolução. Disponível em: <https://www.mercadolivre.com.br/ajuda/5266>. Acesso em: 19 abr. 2023.
+* Como fazer uma reclamação no Mercado Livre? Disponível em: <https://www.tecmundo.com.br/internet/220659-fazer-reclamacao-mercado-livre.htm>. Acesso em: 20 abr. 2023.
+
+‌ 
+## 5. Versionamento
+
+| Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
+|--------|------|------|-----------|-------|---------|
+| 1.0    | 23/04/2023 | 19/04/2023 | Criação do documento oficial | Erick Levy | Rodolfo Neves |
+| 1.1    | 23/04/2023 | 19/04/2023 | Adição dos fluxos | Rodolfo Neves |Erick Levy  |
