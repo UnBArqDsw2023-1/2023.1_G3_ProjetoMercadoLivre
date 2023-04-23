@@ -1,55 +1,41 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
+# 2023.1_G3_ProjetoMercadoLivre
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
+Esse é o repositório de documentação da equipe.
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Mercado Livre
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 03
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0028472  |  [Vinícius Assumpção](https://github.com/viniman27) |
+| 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 20/0018248  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá as necessidades de um cliente e um vendedor da plataforma Mercado Livre em relação aos processos de reclamação, estorno, devolução e/ou troca.<br>
 
-## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 
-## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
+## Screenshots Primeira Entrega 
 
-## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
+### BPMN
 
-## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
+![BPMNmetodologia](./Assets/BPMNMetodologias.jpeg)
+![BPMNProduto](./Assets/BPMN_Produto.png)
+
+
+
+## Screenshots Segunda Entrega <<FOCO:Modelagem&>>
+
+## Screenshots Terceira Entrega <<FOCO: Padrões de Projeto>>
+
+## Screenshots Quarta Entrega  <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Scrum, Kanban e XP<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Python e JavaScript<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: Django (Back-end) e React (Front-end)<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
-
-## Há algo a ser executado?
-
-( ) SIM
-
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
