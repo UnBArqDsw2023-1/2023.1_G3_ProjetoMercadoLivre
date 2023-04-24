@@ -30,7 +30,20 @@
 - [Lucas Rodrigues](https://github.com/nickby2)
 
 
-## 5. Resultados
+## 5. Resultados do Brainstorming
+
+
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMQe0wjY=/?moveToViewport=317,-1333,4347,2054&embedId=470260813869" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+<figcaption align='center'>
+  <b>Figura 1: Brainstorming</b>
+  </br>
+  <small>Fonte: Autor</small>
+</figcaption>
+</br>
+
+
 
 
 
