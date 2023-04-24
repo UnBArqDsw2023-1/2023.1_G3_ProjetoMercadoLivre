@@ -15,7 +15,7 @@
 
     - [Tecnicias de eliticação](#)
 
-      - [Brainstorming](/Base/eliticacao/BrainStorming.md)
+      - [Brainstorming](/Base/eliticacao/Brainstorming.md)
       - [Story Board](/Base/eliticacao/StoryBoard.md)
 
 

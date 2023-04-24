@@ -18,7 +18,7 @@
     O esboço é um estágio inicial e importante na criação de um storyboard, pois permite que o criador tenha uma visão geral do projeto e esboce ideias para as cenas e eventos que serão representados no storyboard. Ao criar um esboço, o criador pode explorar diferentes opções e experimentar ideias sem se preocupar com detalhes, o que ajuda a desenvolver conceitos mais completos e refinados.
 </p>
 
-![Esboço base para Rich-picture e StoryBoard](../../Assets/devolucao-estorno)
+![Esboço base para Rich-picture e StoryBoard](../../Assets/devolucao-estorno.jpeg)
 
 <figcaption align='center'>
     <b>Figura 1 : Esboço para confecção de artefatos</b>

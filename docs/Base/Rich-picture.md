@@ -8,7 +8,7 @@
 
 ## 2. Objetivo
 <p align="justify">
-    O objetivo principal da rich picture é ajudar a compreender e analisar um sistema ou situação complexa, geralmente com múltiplos elementos inter-relacionados. Ao criar uma imagem visual desses elementos, a rich picture pode ajudar a identificar problemas, oportunidades e soluções potenciais.
+    O objetivo principal da rich picture é ajudar a compreender e analisar um sistema ou situação complexa, geralmente com múltiplos elementos inter-relacionados. Ao criar uma imagem visual desses elementos, a rich picture pode ajudar a identificar problemas, oportunidades e soluções potenciais. 
 </p>
 
 ## 3. Fluxos
