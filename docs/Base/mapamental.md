@@ -81,6 +81,7 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
   <small>Autoria: Grupo 3</small>
 </figcaption>
 </br>
+
 ##### plataforma
 
 <br>
