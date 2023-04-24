@@ -132,5 +132,4 @@ BrainStorming,**Mercado Livre** .Disponivel em :[https://unbarqdsw2023-1.github.
 ### Histórico de versão<br>
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
-| 22/04/2023 | 1.0 | Criação do documento | Abdul Hannan ,Lucas Rodrigues Monteiro | Kathlyn Lara Murussi  |<br>
-| 22/04/2023 | 1.1 | Adicao dos artefatos para mapa mental | Abdul Hannan ,Kathlyn Lara Murussi | Lucas Rodrigues Monteiro  |<br>
+| 22/04/2023 | 1.0 | Criação do documento |[Abdul Hannan](https://github.com/hannanhunny01) , <br> [Lucas Rodrigues](https://github.com/nickby2) e  [Kathlyn Lara](https://github.com/klmurussi)    | [Erick Levy](https://github.com/Ericklevy) |<br>

@@ -52,5 +52,5 @@ REVADI, Chindy. CTEC2402 Rich Picture Guidelines.
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
-| 1.0    | 23/04/2023 | 19/04/2023 | Criação do documento oficial | Erick Levy | Rodolfo Neves |
-| 1.1    | 23/04/2023 | 19/04/2023 | Adição dos fluxos | Rodolfo Neves |Erick Levy  |
+| 1.0    | 23/04/2023 | 19/04/2023 | Criação do documento oficial | [Erick Levy](https://github.com/Ericklevy)   | [Rodolfo Neves](https://github.com/roddas) |
+| 1.1    | 23/04/2023 | 19/04/2023 | Adição dos fluxos | [Rodolfo Neves](https://github.com/roddas)  e  [Erick Levy](https://github.com/Ericklevy) | [Gustavo Martins](https://github.com/gustavomartins-github) , [Vinícius Assumpção](https://github.com/viniman27)  e  [Lucas Rodrigues](https://github.com/nickby2)  |

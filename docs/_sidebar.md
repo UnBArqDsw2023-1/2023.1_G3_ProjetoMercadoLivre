@@ -6,16 +6,24 @@
 - **Ata de Reuniões**
 
 - **Base**
-  - [1. Desenho de Software (Base)](/Base/1.Base.md)
-    - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](/Base/1.1.AbordagemNaoEspecifica.md)
-      - [Design Sprint](/Base/DesignSprint.md) 
-      - [Metodologias](/Base/DesignSprint.md)
-      - [5W2H](/Base/5W2H.md) 
-      - [Rich Picture]() 
-      - [Mapa Mental](/Base/mapamental.md)
-    - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
-      - [BPMN](Base/BPMN.md)
-    - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
+
+  - 1.1 Módulo Projeto Não Orientando a Abordagens Específicas
+    - [Design Sprint](/Base/DesignSprint.md) 
+    - [5W2H](/Base/5W2H.md) 
+    - [Rich Picture](Base/Rich-picture.md) 
+    - [Mapa Mental](/Base/mapamental.md)
+
+    - [Tecnicias de eliticação](#)
+
+      - [Brainstorming](/Base/eliticacao/BrainStorming.md)
+      - [Story Board](/Base/eliticacao/StoryBoard.md)
+
+
+  - 1.2 Módulo Processos, Metodologias e Abordagens
+
+    - [BPMN](Base/BPMN.md)
+
+  - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)]()
