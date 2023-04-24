@@ -30,7 +30,9 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 ##### Mercado Livre
 
 <br>
+
  ![geral](../Assets/mapamental/mercadolivre.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 2: Mapa Mental(Mercado livre)</b>
   </br>
@@ -41,7 +43,9 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 ##### Comprador
 
 <br>
+
  ![comprador](../Assets/mapamental/comprador.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 3: Mapa Mental(Comprador )</b>
   </br>
@@ -52,7 +56,9 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 ##### Devolução
 
 <br>
+
  ![devolucao](../Assets/mapamental/devolucao.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 4: Mapa Mental-Comprador</b>
   </br>
@@ -62,8 +68,11 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 
 ##### Reclamação
 
+
 <br>
+
  ![reclamcao](../Assets/mapamental/reclamacao.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 5: Mapa Mental-Reclamação</b>
   </br>
@@ -74,7 +83,9 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 ##### Estorno
 
 <br>
+
  ![devolucao](../Assets/mapamental/estorno.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 6: Mapa Mental-Estorno</b>
   </br>
@@ -85,7 +96,9 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 ##### plataforma
 
 <br>
+
  ![plataforma](../Assets/mapamental/plataforma.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 7: Mapa Mental-plataforma</b>
   </br>
@@ -96,7 +109,9 @@ O mapa mental é dividido em vários diagramas menores, cada um dos quais se con
 ##### Vendedor
 
 <br>
+
  ![vendedor](../Assets/mapamental/vendedor.jpg)
+ 
 <figcaption align='center'>
   <b>Figura 8: Mapa Mental-Vendedor</b>
   </br>
