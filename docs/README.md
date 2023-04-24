@@ -9,10 +9,20 @@ Esse é o repositório de documentação da equipe.
 
 ## Alunos
 |Matrícula | Aluno |
-| -- | -- |
-| 20/0028472  |  [Vinícius Assumpção](https://github.com/viniman27) |
-| 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 20/2045624 | [Abdul Hannan](https://github.com/hannanhunny01) |
+| 18/0016067 | [Erick Levy](https://github.com/Ericklevy) |
+| 19/0055006 | [Gian medeiros](https://github.com/GianMedeiros) |
 | 20/0018248  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 20/0019228 | [Gustavo Martins](https://github.com/gustavomartins-github) |
+| 20/2016462 | [Heitor Marques](https://github.com/heitormsb) |
+| 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| -- | [Kathlyn Lara](https://github.com/klmurussi) |
+| -- | [Lucas Rodrigues](https://github.com/nickby2) |
+| 18/0011472 | [Rodolfo Neves](https://github.com/roddas) |
+| 20/0028472  |  [Vinícius Assumpção](https://github.com/viniman27) |
+
+
+
 
 
 ## Sobre 
@@ -26,7 +36,9 @@ O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá 
 ![BPMNmetodologia](./Assets/BPMNMetodologias.jpeg)
 ![BPMNProduto](./Assets/BPMN_Produto.png)
 
+### StoryBoard
 
+![Devolução e Estorno](../../Assets/storyboard.jpeg )
 
 ## Screenshots Segunda Entrega <<FOCO:Modelagem&>>
 

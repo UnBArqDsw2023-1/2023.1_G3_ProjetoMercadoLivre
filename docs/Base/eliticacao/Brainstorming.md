@@ -22,13 +22,14 @@
 
 ## 4. Participantes
 
+- [Abdul Hannan](https://github.com/hannanhunny01)
 - [Erick Levy](https://github.com/Ericklevy)
+- [Gian medeiros](https://github.com/GianMedeiros)
 - [Gustavo Martins](https://github.com/gustavomartins-github)
-- [hannan](https://github.com/hannanhunny01)
 - [Heitor Marques](https://github.com/heitormsb)
 - [Kathlyn Lara](https://github.com/klmurussi)
 - [Lucas Rodrigues](https://github.com/nickby2)
-- [Gian medeiros](https://github.com/GianMedeiros)
+- [Rodolfo Neves](https://github.com/roddas)
 
 ## 5. Resultados do Brainstorming
 
