@@ -9,6 +9,7 @@ Esse é o repositório de documentação da equipe.
 
 ## Alunos
 |Matrícula | Aluno |
+|--|--|
 | 20/2045624 | [Abdul Hannan](https://github.com/hannanhunny01) |
 | 18/0016067 | [Erick Levy](https://github.com/Ericklevy) |
 | 19/0055006 | [Gian medeiros](https://github.com/GianMedeiros) |
