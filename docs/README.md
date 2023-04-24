@@ -39,7 +39,7 @@ O projeto será uma aplicação WEB, de preferência responsiva, onde atenderá 
 
 ### StoryBoard
 
-![Devolução e Estorno](../../Assets/storyboard.jpeg )
+![Devolução e Estorno](./Assets/storyboard.jpeg )
 
 ## Screenshots Segunda Entrega <<FOCO:Modelagem&>>
 
