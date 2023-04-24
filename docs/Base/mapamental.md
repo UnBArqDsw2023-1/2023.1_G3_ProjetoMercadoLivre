@@ -10,6 +10,8 @@ O Mapa Mental é uma ferramenta que permite a organização de seu conteúdo de 
 ### Mapa Mental
 <br>
 
+#### Diagrama Geral
+
 O diagrama abaixo explicita as ideias da equipe acerca do tema escolhido para o projeto, as quais serviram como insumos para elicitação dos requisitos.
 
 <br>
@@ -17,9 +19,106 @@ O diagrama abaixo explicita as ideias da equipe acerca do tema escolhido para o 
 <figcaption align='center'>
   <b>Figura 1: Mapa Mental</b>
   </br>
-  <small>Fonte: Autor</small>
+  <small>Autoria: Grupo 3</small>
 </figcaption>
 </br>
+
+#### Artefatos do MapaMental
+
+O mapa mental é dividido em vários diagramas menores, cada um dos quais se concentra em um aspecto particular do tópico para melhor entendimento do projeto.
+
+##### Mercado Livre
+
+<br>
+
+ ![geral](../Assets/mapamental/mercadolivre.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 2: Mapa Mental(Mercado livre)</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
+##### Comprador
+
+<br>
+
+ ![comprador](../Assets/mapamental/comprador.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 3: Mapa Mental(Comprador )</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
+##### Devolução
+
+<br>
+
+ ![devolucao](../Assets/mapamental/devolucao.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 4: Mapa Mental-Comprador</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
+##### Reclamação
+
+
+<br>
+
+ ![reclamcao](../Assets/mapamental/reclamacao.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 5: Mapa Mental-Reclamação</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
+##### Estorno
+
+<br>
+
+ ![devolucao](../Assets/mapamental/estorno.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 6: Mapa Mental-Estorno</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
+##### plataforma
+
+<br>
+
+ ![plataforma](../Assets/mapamental/plataforma.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 7: Mapa Mental-plataforma</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
+##### Vendedor
+
+<br>
+
+ ![vendedor](../Assets/mapamental/vendedor.jpg)
+ 
+<figcaption align='center'>
+  <b>Figura 8: Mapa Mental-Vendedor</b>
+  </br>
+  <small>Autoria: Grupo 3</small>
+</figcaption>
+</br>
+
 
 ### Referências
 <br>
@@ -28,7 +127,10 @@ SERRANO, Milene. **Mapa Mental**, 2021. Material apresentado na Disciplina de Ar
 
 SBCOACHING. **Mapa Mental: O que é e Como Fazer**. Disponível em: [https://www.sbcoaching.com.br/blog/mapa-mental/](https://www.sbcoaching.com.br/blog/mapa-mental/) Acesso em: 8 de fevereiro de 2021.
 
+BrainStorming,**Mercado Livre** .Disponivel em :[https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Base/eliticacao/Brainstorming](https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Base/eliticacao/Brainstorming)
+
 ### Histórico de versão<br>
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
-| 22/04/2023 | 1.0 | Criação do documento | Abdul Hannan ,Lucas |  |<br>
+| 22/04/2023 | 1.0 | Criação do documento | Abdul Hannan ,Lucas Rodrigues Monteiro | Kathlyn Lara Murussi  |<br>
+| 22/04/2023 | 1.1 | Adicao dos artefatos para mapa mental | Abdul Hannan ,Kathlyn Lara Murussi | Lucas Rodrigues Monteiro  |<br>
