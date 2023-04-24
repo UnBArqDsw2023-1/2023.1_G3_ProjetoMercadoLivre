@@ -122,7 +122,24 @@ Também é utilizado o servidor da disciplina, onde é feita a comunicação com
 ### 7.2 Telegram
 Além do Discord, a comunicação do time também é feita pelo Telegram, onde são feitas discussões mais objetivas e pontuais.
 
-## 8. Referências bibliográficas
+## 8. Resultados
+
+### Unpack ou Definição (18/04/2023 a 23/04/2023)
+
+Durante uma reunião online no Discord, a equipe buscou entender melhor o projeto em questão. Para isso, utilizou a técnica de [Brainstorming](/Base/eliticacao/BrainStorming.md) 1 e 2 versão para gerar ideias livremente e sem restrições. A partir dessas ideias, a equipe confeccionou um [Mapa Mental](/Base/mapamental.md) para alinhar os integrantes, no qual cada membro pôde anotar suas ideias enquanto o restante da equipe discutia e complementava as informações. Essa abordagem permitiu que a equipe desenvolvesse uma compreensão mais clara e abrangente do projeto, além de permitir que todos os membros contribuíssem igualmente para a criação de uma visão comum e compartilhada sobre o projeto. Ao final, a equipe pôde se sentir mais preparada para enfrentar os desafios do projeto com uma estratégia clara e objetiva.
+
+
+### Sketch ou Esboço (20/04/2023 a 23/04/2023)
+Dias depois, a equipe se reuniu novamente por meio de aplicativos de reunião, como o Discord, para dar continuidade ao processo de elicitação de requisitos. Nessa ocasião, a equipe avaliou quais técnicas seriam mais adequadas para obter um entendimento mais completo e detalhado do projeto. Após a discussão, a equipe optou por utilizar a técnica de [Brainstorming](/Base/eliticacao/BrainStorming.md) para gerar ideias de forma colaborativa e sem restrições, além da técnica de [Story Board](/Base/eliticacao/StoryBoard.md) para complementar a elicitação de requisitos. Durante o processo, foram definidos os membros da equipe que participariam de cada técnica, visando obter uma ampla gama de perspectivas e ideias. Com essas técnicas, a equipe pôde explorar de forma mais eficaz as necessidades e expectativas dos usuários e stakeholders, aprofundando a compreensão do projeto e permitindo uma tomada de decisão mais precisa e embasada.
+
+### Decision ou Decisão (20/04/2023 a 23/04/2023)
+Após a confecção da primeira versão do Brainstorming, a equipe prosseguiu com a criação do [Rich Picture](Base/Rich-picture.md) e do [5W2H](/Base/5W2H.md) . No entanto, ficou claro que uma versão mais aprimorada do Brainstorming seria necessária para melhorar a qualidade desses documentos e do próprio mapa mental. A equipe decidiu, então, se reunir novamente e revisitar o Brainstorming, buscando novas ideias e refinando as que já haviam sido propostas. Com essa abordagem mais iterativa e colaborativa, a equipe conseguiu aprimorar significativamente todos os artefatos produzidos, contribuindo para um melhor entendimento e alinhamento do projeto.
+
+### Prototype ou Prototipação (17/04/2023)
+
+Com o auxílio da docente, a equipe pôde compreender melhor como proteger o artefato chamado [BPMN](Base/BPMN.md) . Para isso, três integrantes foram designados para realizar essa tarefa.
+
+## 9. Referências bibliográficas
 
 > Deisy Braz S., COMBINAÇÃO DE MÉTODOS ÁGEIS NO PROCESSO DE DESENVOLVIMENTO DE SOFTWARE: UM ESTUDO DE CASO. Disponível em: <https://periodicos.uniarp.edu.br/index.php/ignis/article/download/1133/570/4664>
 
@@ -141,5 +158,6 @@ Além do Discord, a comunicação do time também é feita pelo Telegram, onde s
 | 18/04/2023 |  1.0   | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07)   |
 | 21/04/2023 |  1.1   | Processos, Metodologias e Abordagens | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)| [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27)|
 | 22/04/2023 |  1.2   | Escolha dos artefatos, BPMN, Comunicação e Referências Bibliográficas | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Vinícius Assumpção](https://github.com/viniman27) |
-|22/04/2023| 1.2.1 | Concertando link que quebra pagina | [Erick levy](https://github.com/Ericklevy) | |
+|22/04/2023| 1.2.1 | Concertando link que quebra pagina | [Erick levy](https://github.com/Ericklevy) |  [Vinícius Assumpção](https://github.com/viniman27) |
 | 22/04/2023 | 1.2 | Correções e pequenas melhorias | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Vinícius Assumpção](https://github.com/viniman27) |
+| 24/04/2023 |  1.3   | Adição de um tópico| [Erick levy](https://github.com/Ericklevy) |    |

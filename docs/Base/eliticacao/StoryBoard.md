@@ -52,6 +52,12 @@
 
 > Preece, J.; Rogers, Y.; Sharp, H.; Design de Interação. Além da Interação Homem-Computador.
 
+* Quando e onde recebo o dinheiro da minha devolução. Disponível em: <https://www.mercadolivre.com.br/ajuda/5266>. Acesso em: 19 abr. 2023.
+* Como fazer uma reclamação no Mercado Livre? Disponível em: <https://www.tecmundo.com.br/internet/220659-fazer-reclamacao-mercado-livre.htm>. Acesso em: 20 abr. 2023.
+
+* Fontes pixeladas. Disponível em: <https://fontmeme.com/pt/fontes-pixeladas/> . Acesso em: 21 abri. 2023.
+ 
+
 
 ## 6. Versionamento
 

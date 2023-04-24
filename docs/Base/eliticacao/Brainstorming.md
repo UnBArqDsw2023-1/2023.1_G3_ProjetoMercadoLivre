@@ -28,7 +28,7 @@
 - [Heitor Marques](https://github.com/heitormsb)
 - [Kathlyn Lara](https://github.com/klmurussi)
 - [Lucas Rodrigues](https://github.com/nickby2)
-
+- [Gian medeiros](https://github.com/GianMedeiros)
 
 ## 5. Resultados do Brainstorming
 
@@ -57,5 +57,5 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
-| 18/04/2023 |  1.0   | Criação do documento | [Erick Levy](https://github.com/Ericklevy) [Gustavo Martins](https://github.com/gustavomartins-github)  , [hannan](https://github.com/hannanhunny01) , [Heitor Marques](https://github.com/heitormsb) , [Kathlyn Lara](https://github.com/klmurussi) , [Lucas Rodrigues](https://github.com/nickby2) |   |
+| 18/04/2023 |  1.0   | Criação do documento | [Erick Levy](https://github.com/Ericklevy) , <br> [Gustavo Martins](https://github.com/gustavomartins-github)  , <br> [Abdul Hannan](https://github.com/hannanhunny01) ,<br>  [Heitor Marques](https://github.com/heitormsb) ,  <br> [Kathlyn Lara](https://github.com/klmurussi) , <br> [Lucas Rodrigues](https://github.com/nickby2) e [Rodolfo Neves](https://github.com/roddas) | [Gian medeiros](https://github.com/GianMedeiros)  |
 
