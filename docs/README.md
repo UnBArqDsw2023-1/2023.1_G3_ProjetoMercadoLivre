@@ -17,8 +17,8 @@ Esse é o repositório de documentação da equipe.
 | 20/0019228 | [Gustavo Martins](https://github.com/gustavomartins-github) |
 | 20/2016462 | [Heitor Marques](https://github.com/heitormsb) |
 | 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
-| -- | [Kathlyn Lara](https://github.com/klmurussi) |
-| -- | [Lucas Rodrigues](https://github.com/nickby2) |
+| 18/0042378 | [Kathlyn Lara](https://github.com/klmurussi) |
+| 18/0125974 | [Lucas Rodrigues](https://github.com/nickby2) |
 | 18/0011472 | [Rodolfo Neves](https://github.com/roddas) |
 | 20/0028472  |  [Vinícius Assumpção](https://github.com/viniman27) |
 
