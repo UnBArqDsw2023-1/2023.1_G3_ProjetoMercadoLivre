@@ -38,7 +38,7 @@ Pode fluir em qualquer direção. Pode-se descrever a mensagem que está passand
 
 # Diagrama de sequência do comprador
 
-![Diagrama de Sequência cliente]()
+![Diagrama de Sequência cliente](/docs/Assets/diagramasAgeisImg/DiagramaSeqComprador.png)
 
 # Diagrama de sequência do vendedor
 
