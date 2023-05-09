@@ -34,9 +34,16 @@ Organiza e programa as interações entre os limites e entidades e serve como me
 
 Pode fluir em qualquer direção. Pode-se descrever a mensagem que está passando e, com cada tipo de seta você pode indicar o tipo de mensagem que está sendo enviada ou recebida.
 
-## Diagrama
+## Diagramas
 
-![Diagrama de Sequência]()
+# Diagrama de sequência do cliente
+
+![Diagrama de Sequência cliente]()
+
+# Diagrama de sequência do vendedor
+
+![Diagrama de Sequência vendedor]()
+
 
 ## Histórico de versão
 
