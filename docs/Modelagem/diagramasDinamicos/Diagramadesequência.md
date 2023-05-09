@@ -42,14 +42,14 @@ Pode fluir em qualquer direção. Pode-se descrever a mensagem que está passand
 
 # Diagrama de sequência do vendedor
 
-![Diagrama de Sequência vendedor]()
+![Diagrama de Sequência vendedor](/docs/Assets/diagramasAgeisImg/DiagramaSeqVendedorpng.png)
 
 
 ## Histórico de versão
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
-09/05/2023| 1.0.0| Elaboração do artefato de Diagrama de Atividades | [Gabriel Roger](https://github.com/)  [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) | [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) [Gabriel Roger](https://github.com/)
+09/05/2023| 1.0.0| Elaboração do artefato de Diagrama de Atividades e adição da primeira versão dos diagramas| [Gabriel Roger](https://github.com/)  [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) | [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) [Gabriel Roger](https://github.com/)
 
 
 ## Referências
