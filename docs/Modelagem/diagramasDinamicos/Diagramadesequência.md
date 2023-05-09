@@ -36,7 +36,7 @@ Pode fluir em qualquer direção. Pode-se descrever a mensagem que está passand
 
 ## Diagramas
 
-# Diagrama de sequência do cliente
+# Diagrama de sequência do comprador
 
 ![Diagrama de Sequência cliente]()
 
