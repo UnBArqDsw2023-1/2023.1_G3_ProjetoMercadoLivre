@@ -24,7 +24,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 ## Diagrama
 
-![Diagrama de Implantação]()
+![Diagrama de Implantação](/docs/Assets/diagramasAgeisImg/Diagrama_De_Estados.png)
 
 ## Histório de versão
 
