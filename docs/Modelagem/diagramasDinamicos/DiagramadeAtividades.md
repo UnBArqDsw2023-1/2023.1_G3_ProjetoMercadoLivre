@@ -36,23 +36,23 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ### Abertura do processo de reclamação pelo cliente
 
-![Diagrama de atividades Reserva de mesa]()
+![Diagrama de Atividades Comprador](/docs/Assets/diagramasAgeisImg/DiagramaDeAtividadesComprador.png)
 
 ### Processamento da comunicação pelo vendedor
 
-![Diagrama de atividades Geral]()
-
-## Histório de versão
-
-
-Data | Versão |Descrição |Autor | Revisor
------|--------|----------|------|--------
-09/05/2023| 1.0.0| Elaboração do artefato de Diagrama de Atividades | [Gabriel Roger](https://github.com/)  [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) | [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) [Gabriel Roger](https://github.com/)
-
+![Diagrama de Atividades Vendedor](/docs/Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedor.png)
 
 ## Referências
+
 SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 09 de maio 2023.
 
 UML DIAGRAMS. UML Communication Diagrams Overview. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 09 de maio 2023.
 
 Diagramas de Atividades. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 09 de maio 2023.
+
+## Histório de versão
+
+Data | Versão |Descrição |Autor | Revisor
+-----|--------|----------|------|--------
+| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades | [Vinícius Assumpção](https://github.com/viniman27) | [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 11/05/2023 | 1.0.1 | Elaboração dos diagramas de atividades | [Gabriel Roger](https://github.com/GabrielRoger07) |  |
