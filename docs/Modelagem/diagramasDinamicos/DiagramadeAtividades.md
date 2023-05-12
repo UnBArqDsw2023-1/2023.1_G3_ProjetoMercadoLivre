@@ -8,7 +8,7 @@ O Diagrama de Atividades é um diagrama dinâmico que mostra o fluxo entre os ob
 O Diagrama de Atividades tem 5 elementos principais na sua composição:
 1. Atividades
 
-Na UML, as atividades são elementos de contêiner que descrevem o nível mais alto do comportamento em um diagrama de atividades. As atividades contêm diversos nós de atividade e linhas de atividade que representam a seqüência de tarefas em um fluxo de trabalho que resulta em um comportamento.
+Na UML, as atividades são elementos de contêiner que descrevem o nível mais alto do comportamento em um diagrama de atividades. As atividades contêm diversos nós de atividade e linhas de atividade que representam a sequência de tarefas em um fluxo de trabalho que resulta em um comportamento.
 
 2. Ações
 
@@ -24,7 +24,7 @@ Nos diagramas de atividades, um nó de objeto é um nó de atividade abstrato qu
 
 5. Linhas de Atividade
 
-Nos diagramas de atividades, uma extremidade de atividade é uma conexão direcionada entre dois nós de atividade. Quando uma ação específica em uma atividade é concluída, a linha de atividade continua o fluxo para a próxima ação na seqüência.
+Nos diagramas de atividades, uma extremidade de atividade é uma conexão direcionada entre dois nós de atividade. Quando uma ação específica em uma atividade é concluída, a linha de atividade continua o fluxo para a próxima ação na sequência.
 
 A partir do entendimento da diagramação e de seus elementos, foram desenvolvidos diagramas para 2 tipos de casos de usos diferentes encontrados no projeto:
 
@@ -38,9 +38,23 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ![Diagrama de Atividades Comprador](/docs/Assets/diagramasAgeisImg/DiagramaDeAtividadesComprador.png)
 
+<figcaption align='center'>
+  <b>Figura 1: Diagrama de atividades de abertura do processo de reclamação pelo cliente</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
+
 ### Processamento da comunicação pelo vendedor
 
 ![Diagrama de Atividades Vendedor](/docs/Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedor.png)
+
+<figcaption align='center'>
+  <b>Figura 2: Diagrama de atividades de processamento da comunicação pelo vendedor</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
 
 ## Referências
 
@@ -55,4 +69,5 @@ Diagramas de Atividades. Disponível em: https://www.ibm.com/docs/pt-br/rational
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
 | 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades | [Vinícius Assumpção](https://github.com/viniman27) | [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
-| 11/05/2023 | 1.0.1 | Elaboração dos diagramas de atividades | [Gabriel Roger](https://github.com/GabrielRoger07) |  |
+| 11/05/2023 | 1.0.1 | Elaboração dos diagramas de atividades | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
