@@ -16,13 +16,14 @@ Este mesmo diagrama é composto por vários elementos, dentre os quais:
 
 <p align='justify' >Diagramas de comunicação devem ser apresentado dentro de um quadro retangular com o nome, num compartimento no canto superior esquerdo. Não existe um formato longo específico para tipo de cabeçalho de diagramas de comunicação. A forma longa do nome de forma longa <span font-weight='bold' >interaction</span> pode ser utilizado. </p>
 <p align='justify' >
-There is no specific long form name for communication diagrams heading types. The long form name interaction (used for interaction diagrams in general) could be used.
 </p>
+
+
 ![imagem](../../Assets/long.png)
 
 <figcaption align='center'>
-    <b>Figura 1: Quadro de interação para o diagrama de comunicação BuyItem</b><br>
-    <b>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</b>
+    <p>Figura 1: Quadro de interação para o diagrama de comunicação BuyItem</p><br>
+    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 
@@ -31,8 +32,8 @@ There is no specific long form name for communication diagrams heading types. Th
 ![imagem](../../Assets/short.png)
 
 <figcaption align='center'>
-    <b>Figura 2: Quadro de interação para o diagrama de comunicação BuyItem, na forma curta.</b><br>
-    <b>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</b>
+    <p>Figura 2: Quadro de interação para o diagrama de comunicação BuyItem, na forma curta.</p><br>
+    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 ### Lifeline
@@ -57,15 +58,15 @@ Onde **class-name** é o tipo referenciado pelo elemento conectável representad
 ![imagem](../../Assets/01.png)
 
 <figcaption align='center'>
-    <b>Figura 3 : Lifeline anônima da classe User.</b><br>
-    <b>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</b>
+    <p>Figura 3 : Lifeline anônima da classe User.</p><br>
+    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 ![imagem](../../Assets/02.png)
 
 <figcaption align='center'>
-    <b>Figura 4 : Lifeline x da classe K é selecionada com o seletor [k]</b><br>
-    <b>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</b>
+    <p>Figura 4 : Lifeline x da classe K é selecionada com o seletor [k]</p><br>
+    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 <p align='justify'>
