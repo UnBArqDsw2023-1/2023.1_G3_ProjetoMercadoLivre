@@ -80,8 +80,8 @@ A mensagem no diagrama de comunicação é mostrada como uma linha com uma expre
 ![imagem](../../Assets/message.png)
 
 <figcaption align='center'>
-    <b>Figura 5 : A instância da classe A envia a mensagem remove() para a instância de B se s1 for igual a s2</b><br>
-    <b>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</b>
+    <p>Figura 5 : A instância da classe A envia a mensagem remove() para a instância de B se s1 for igual a s2</p>
+    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 
