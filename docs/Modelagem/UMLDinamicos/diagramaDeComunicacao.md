@@ -22,7 +22,7 @@ Este mesmo diagrama é composto por vários elementos, dentre os quais:
 ![imagem](../../Assets/long.png)
 
 <figcaption align='center'>
-    <p>Figura 1: Quadro de interação para o diagrama de comunicação BuyItem</p><br>
+    <p>Figura 1: Quadro de interação para o diagrama de comunicação BuyItem</p>
     <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
@@ -32,7 +32,7 @@ Este mesmo diagrama é composto por vários elementos, dentre os quais:
 ![imagem](../../Assets/short.png)
 
 <figcaption align='center'>
-    <p>Figura 2: Quadro de interação para o diagrama de comunicação BuyItem, na forma curta.</p><br>
+    <p>Figura 2: Quadro de interação para o diagrama de comunicação BuyItem, na forma curta.</p>
     <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
@@ -58,14 +58,14 @@ Onde **class-name** é o tipo referenciado pelo elemento conectável representad
 ![imagem](../../Assets/01.png)
 
 <figcaption align='center'>
-    <p>Figura 3 : Lifeline anônima da classe User.</p><br>
+    <p>Figura 3 : Lifeline anônima da classe User.</p>
     <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 ![imagem](../../Assets/02.png)
 
 <figcaption align='center'>
-    <p>Figura 4 : Lifeline x da classe K é selecionada com o seletor [k]</p><br>
+    <p>Figura 4 : Lifeline x da classe K é selecionada com o seletor [k]</p>
     <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
