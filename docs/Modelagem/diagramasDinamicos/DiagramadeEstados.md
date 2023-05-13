@@ -24,16 +24,25 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 ## Diagrama
 
-![Diagrama de Implantação](/docs/Assets/diagramasAgeisImg/Diagrama_De_Estados.png)
+![Diagrama de Estados](/docs/Assets/diagramasAgeisImg/Diagrama_De_Estados.png)
 
-## Histório de versão
-
-Data | Versão |Descrição |Autor | Revisor
------|--------|----------|------|--------
-09/05/2023| 1.0.0| Elaboração do artefato de Diagrama de Estados | [Gabriel Roger](https://github.com/)  [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) | [Vinicius Assumpção](https://github.com/viniman27) [João Pedro Vaz](https://github.com/) [Gabriel Roger](https://github.com/)
+<figcaption align='center'>
+  <b>Figura 1: Diagrama de Estados</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
 
 ## Referências
 
 SERRANO, Milene. Diagrama de Estados, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 09 de maio 2023.
 
 Livro: Engenharia de Software, Roger S. Pressman
+
+## Histórico de versão
+
+Data | Versão |Descrição |Autor | Revisor
+-----|--------|----------|------|--------
+| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Estados | [Vinicius Assumpção](https://github.com/viniman27) | [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 10/05/2023 | 1.0.1 | Desenvolvimento do Diagrama de Estados | [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Gabriel Roger](https://github.com/GabrielRoger07) e [Vinicius Assumpção](https://github.com/viniman27) | 
+| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte na imagem | [Gabriel Roger](https://github.com/GabrielRoger07) | [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27)
