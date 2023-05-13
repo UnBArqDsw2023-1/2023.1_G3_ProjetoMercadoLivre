@@ -49,7 +49,7 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
 
 # Diagrama de sequência do vendedor
 
-![Diagrama de Sequência vendedor](/docs/Assets/diagramasAgeisImg/DiagramaSeqVendedorpng.png)
+![Diagrama de Sequência vendedor](/docs/Assets/diagramasAgeisImg/DiagramaSeqVendedor1.png)
 
 <figcaption align='center'>
   <b>Figura 2: Diagrama de sequência do vendedor</b>
