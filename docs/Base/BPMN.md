@@ -1,12 +1,12 @@
 # BPMN
 
-## Introdução & Objetivo
+## 1. Introdução & Objetivo
 
 A notação BPMN (Business Process Managemente Notation) é uma notação padronizada para diagramação de fluxos, principalmente de processos de desenvolvimento. A representação dessa técnica é gráfica com o auxílio de símbolos e ícones.
 
 O objetivo, então, da utilização do BPMN é representar os fluxos do processo que a equipe utilizará ao longo do projeto de forma gráfica e intuitiva.
 
-## Metodologia
+## 2. Metodologia
 
 A partir das definições da equipe, foram confeccionados 2 BPMN:
 
@@ -16,25 +16,25 @@ A partir das definições da equipe, foram confeccionados 2 BPMN:
 
 A ferramenta usada foi o site: lucidchart.com
 
-## 1. BPMN Metodologia
+## 3. BPMN Metodologia
 
 ![](../Assets/BPMNMetodologias.jpeg)
 
 <p align='center'>Fonte: Autoria do Grupo</p>
 
-## 2. BPMN Produto
+## 4. BPMN Produto
 
 ![](../Assets/BPMN_Produto.png)
 
 <p align='center'>Fonte: Autoria do Grupo</p>
 
-## Referências Bibliográficas
+## 5. Referências Bibliográficas
 
 SERRANO, Milene. BPMN, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA.
 
 TOTVS.BPMN: entenda o que é a modelagem de processos de negócios, como fazer e sua importância!, 2023. Acesso em : https://www.totvs.com/blog/gestao-industrial/bpmn/
 
-## Histórico de Versão
+## 6. Histórico de versionamento
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |

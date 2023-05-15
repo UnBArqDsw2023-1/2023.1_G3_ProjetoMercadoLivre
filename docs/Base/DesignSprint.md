@@ -151,7 +151,7 @@ Com o auxílio da docente, a equipe pôde compreender melhor como proteger o art
 
 > Prof. Milene Serrano, disciplina Arquitetura e Desenho de Software. Base - Metodologia, BPMN
 
-## 9. Versionamento
+## 9. Histórico de versionamento
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |

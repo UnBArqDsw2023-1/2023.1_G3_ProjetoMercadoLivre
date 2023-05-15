@@ -40,7 +40,7 @@
     <br><small>Autor: Erick Levy</small>
 </figcaption>
 
-## 4. Conclusão
+## 5. Conclusão
 
 <p align="justify">
     Concluímos que a partir desse documento podemos ter uma visão inicial das tarefas que serão mais detalhadas no documento de <a href="https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Base/DesignSprint" > Rich Picture </a> Além disso, o storyboard pode ajudar a garantir a consistência visual e a coerência narrativa na rica imagem. Isso é particularmente importante quando se trabalha em equipe, pois ajuda a garantir que todos os envolvidos tenham uma compreensão clara e consistente da narrativa representada.
@@ -48,7 +48,7 @@
 
 
 
-## 5. Referências
+## 6. Referências
 
 > Preece, J.; Rogers, Y.; Sharp, H.; Design de Interação. Além da Interação Homem-Computador.
 
@@ -59,7 +59,7 @@
  
 
 
-## 6. Versionamento
+## 7. Histórico de versionamento
 
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
