@@ -64,10 +64,10 @@ UML DIAGRAMS. UML Communication Diagrams Overview. Disponível em: https://www.u
 
 Diagramas de Atividades. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 09 de maio 2023.
 
-## Histório de versão
+## Histório de Versionamento
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
-| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades | [Vinícius Assumpção](https://github.com/viniman27) | [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
-| 11/05/2023 | 1.0.1 | Elaboração dos diagramas de atividades | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
-| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 11/05/2023 | 1.0.1 | Elaboração dos diagramas de atividades | [Gabriel Roger](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |

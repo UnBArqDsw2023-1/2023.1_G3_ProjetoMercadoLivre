@@ -39,10 +39,10 @@ SERRANO, Milene. Diagrama de Estados, 2022. Material apresentado na Disciplina d
 
 Livro: Engenharia de Software, Roger S. Pressman
 
-## Histórico de versão
+## Histórico de Versionamento
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
-| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Estados | [Vinicius Assumpção](https://github.com/viniman27) | [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
-| 10/05/2023 | 1.0.1 | Desenvolvimento do Diagrama de Estados | [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Gabriel Roger](https://github.com/GabrielRoger07) e [Vinicius Assumpção](https://github.com/viniman27) | 
-| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte na imagem | [Gabriel Roger](https://github.com/GabrielRoger07) | [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27)
+| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Estados | [Vinicius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |  [Erick Levy](https://github.com/Ericklevy) |
+| 10/05/2023 | 1.0.1 | Desenvolvimento do Diagrama de Estados | [João Pedro Vaz](https://github.com/JoaoPedro0803) , [Gabriel Roger](https://github.com/GabrielRoger07) e [Vinicius Assumpção](https://github.com/viniman27) |  [Erick Levy](https://github.com/Ericklevy) | 
+| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte na imagem | [Gabriel Roger](https://github.com/GabrielRoger07) ,[João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy) |

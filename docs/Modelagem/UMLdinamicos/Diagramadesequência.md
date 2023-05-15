@@ -66,9 +66,9 @@ Linhas de Vida em Diagramas UML. Disponível em: https://www.ibm.com/docs/pt-br/
 
 Tutorial do Diagrama de Sequência: Guia completo com exemplos. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/. Acesso em: 09 de maio 2023.
 
-## Histórico de versão
+## Histórico de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor | 
 | -----|--------|----------|------|-------- |
-| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades e adição da primeira versão dos diagramas | [Vinicius Assumpção](https://github.com/viniman27) | [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
-| 12/05/2023 | 1.0.1 | Inclusão de fonte e legenda nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) | [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27) |
+| 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades e adição da primeira versão dos diagramas | [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy)  |
+| 12/05/2023 | 1.0.1 | Inclusão de fonte e legenda nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) ,  [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy)  |
