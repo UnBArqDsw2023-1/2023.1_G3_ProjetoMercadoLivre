@@ -58,7 +58,7 @@ Quando você terminar de trabalhar em uma issue, crie um pull request para que o
 - Adicionar assignees, pessooas que trabalharam na issue.
 - Adicionar reviewers, pessoas que irão revisar as alterações, e aguardar a aprovação de todas elas.
     - Todos os revisores devem ser pessoas que não trabalharam na issue, para que haja uma revisão imparcial e de qualidade.
-    - Por padrão, o pull request deve ser aprovado por pelo menos 2 pessoas, mas se o pull request for muito simples, pode ser aprovado por apenas 1 pessoa.
+    - Por padrão, o pull request deve ser aprovado por pelo menos 4 pessoas.
     - Caso o pull request não seja aprovado, faça as alterações necessárias e solicite uma nova revisão.
 - Adicionar labels que identifiquem o tipo de pull request.
     - Caso o pull request não esteja pronto para ser revisado, adicione o label `WIP` (work in progress).

@@ -1,7 +1,7 @@
 Antes:
 - Nomeie o pull request de forma clara e objetiva, de modo que seja fácil identificar o que ele se trata.
 - Adicione assignees, pessoas que trabalharam na issue.
-- Adicione reviewers (pelo menos dois), pessoas que irão revisar as alterações, e aguardar a aprovação de todas elas antes de fazer o merge.
+- Adicione reviewers (pelo menos quatro), pessoas que irão revisar as alterações, e aguardar a aprovação de todas elas antes de fazer o merge.
 - Adicione labels que identifiquem o tipo de pull request.
     - Caso o pull request não esteja pronto para ser revisado, adicione o label `WIP` (work in progress).
 - Adicione a pull request a uma milestone, caso ela esteja relacionada a alguma.
