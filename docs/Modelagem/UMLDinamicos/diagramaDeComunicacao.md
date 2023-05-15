@@ -98,6 +98,11 @@ Por exemplo, **3b.2.2:m5** contém a expressão de sequência **3b.2.2** e o nom
 
 ![imagem](../../Assets/diagramaComunicacao.png)
 
+<figcaption align='center'>
+    <p>Figura 6 : Diagrama de Comunicação do de um determinado fluxo da plataforma Mercado Livre</p>
+    <p>Fonte: Própria</p>
+</figcaption>
+
 ## Referências
 
 * KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html).
@@ -107,4 +112,5 @@ Por exemplo, **3b.2.2:m5** contém a expressão de sequência **3b.2.2** e o nom
 | Data | Versão | Descrição | Autor | Revisor |
 | ---- | ------ | --------- | ----- | ------- |
 | 13/05/2023 | 1.0 | Criação do documento inicial | [Rodolfo Cabral Neves](https://github.com/roddas) | [Erick Levy](https://github.com/Ericklevy/) |
-| 13/05/2023 | 1.0 | Criação do diagrama de comunicação do mercado livre | [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Kathlyn Lara Murussi](https://github.com/klmurussi/) |
+| 13/05/2023 | 1.1 | Criação do diagrama de comunicação do mercado livre | [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Kathlyn Lara Murussi](https://github.com/klmurussi/) |
+| 13/05/2023 | 1.2 | Adição da legenda da última figura | [Rodolfo Cabral Neves](https://github.com/roddas) | [Erick Levy](https://github.com/Ericklevy/) |
