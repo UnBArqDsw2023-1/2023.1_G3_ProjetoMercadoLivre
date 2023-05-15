@@ -29,6 +29,7 @@
   - [2. Desenho de Software (Modelagem)]()
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais]()
       - [2.1.1. Notação UML – Diagramas Estáticos]()
+        - [Diagrama de Classes](/Modelagem/DiagramaDeClasses.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos]()
     - [2.2. Participações - Modelagem]()
 
