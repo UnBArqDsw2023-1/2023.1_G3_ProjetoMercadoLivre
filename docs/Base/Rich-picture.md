@@ -1,4 +1,4 @@
-# RichPicture
+# Artefato Rich Picture
 
 ## 1. Introdução
 
@@ -13,49 +13,41 @@
 
 ## 3. Metodologia
 <p align="justify">
-    Apesar da informalidade, alguns elementos geralmente são úteis para o desenvolvimento de um bom rich picture. Logo, para o desenvolvimento desse artefato, foi usado os seguintes elementos: autor, operações, armazenamento de dados, flexas e limite do sistema. Sendo assim, um autor consiste em uma representação de um grupo de usuários, enquanto uma operação consiste em uma atividade do sistema. Por outro lado, o armazenamento de dados consiste em dados proveniente de um banco de dados ou sistema de arquivos, enquanto as flexas e o limete do sistema remetem, respectivamente, ao fluxo de dados e escopo do sistema. Tais elementos podem ser visto conforme a tabela 1 a seguir.
+    Apesar da informalidade, alguns elementos geralmente são úteis para o desenvolvimento de um bom rich picture. Logo, para o desenvolvimento desse artefato, foi usado o seguinte framework: atores (comprador, vendedor, transportadora), operações, armazenamento de dados, flexas e limite do sistema. Sendo assim, um autor consiste em uma representação de um grupo de usuários ou outro sistema, enquanto uma operação consiste em uma atividade do sistema. Por outro lado, o armazenamento de dados consiste em dados proveniente de um banco de dados ou sistema de arquivos, enquanto as flexas e o limete do sistema remetem, respectivamente, ao fluxo de dados e escopo do sistema principal (Mercado Livre). Tais elementos podem ser visto conforme a Tabela 1 a seguir.
 </p>
 
 ![Metodologia](../Assets/Metodologia.jpeg)
 
 <figcaption align='center'>
-    <b>Tabela 1 : componentes do rich picture</b>
-    <br><small>Fonte: Elaboração Própria</small>
+    <b>Tabela 1 : componentes genéricos para elaboração de um rich picture</b>
+    <br><small>Fonte: Autoria Própria</small>
     <br><small>Autor: Gustavo Martins Ribeiro</small>
 </figcaption>
 
-## 3. Fluxos
-
 <p align="justify">
-    Nesta seção apresentaremos os fluxos da aplicação que nos foram atribuídos, respetivamente. As figuras 1 a 3 a seguir evidenciam tais fluxos. 
+    
+    
+Diante do exposto, a Tabela 2 a seguir sintetiza, com maior detalhamento, os componentes adaptados, os quais foram utilizados na construção do artefato rich picture proposto.
 </p>
 
-### 3.1 Fluxo de devolução e estorno de um produto
-
-![Fluxo de devolução e estorno de um produto](../Assets/fluxo_devolucao.jpeg)
+![Legenda](../Assets/LegendaRichPicture.jpeg)
 
 <figcaption align='center'>
-    <b>Figura 1 : Fluxo de devolução e estorno de um produto</b>
-    <br><small>Fonte: Elaboração Própria</small>
-    <br><small>Autor: Erick Levy</small>
+    <b>Tabela 1 : componentes adaptados para construção do rich picture</b>
+    <br><small>Fonte: Autoria Própria</small>
+    <br><small>Autor: Gustavo Martins Ribeiro</small>
 </figcaption>
 
-### 3.2 Fluxo de reclamação
+### 4 Rich Picture
+<p aling = "justify">
+    A seguir, confira o artefato Rich Picture desenvolvido. Nele, por exemplo, é possível perceber, em alto nível de abstração, a relação entre os usuários, seja comprador ou vendedor, com sistema mercado livre, além do papel das transportadores, empresas especializadas no transporte de mercadorias, no processo de venda.
+</p>
 
-![Fluxo de reclamação](../Assets/fluxo_reclamacao.jpeg)
-
-<figcaption align='center'>
-    <b>Figura 2 : Fluxo de reclamação</b>
-    <br><small>Fonte: Elaboração Própria</small>
-    <br><small>Autor: Rodolfo Neves</small>
-</figcaption>
-
-### 3.3 Artefato rich picture
-![RichPicture](../Assets/RichPicture.jpeg)
+![RichPicture](../Assets/RichPicture_MercadoLivre.jpeg)
 
 <figcaption align='center'>
-    <b>Figura 3 : artefato rich picture contendo a síntese dos fluxos</b>
-    <br><small>Fonte: Elaboração Própria</small>
+    <b>Figura 1 : rich picture do sistema mercado livre</b>
+    <br><small>Fonte: Autoria Própria</small>
     <br><small>Autor: Gustavo Martins Ribeiro</small>
 </figcaption>
 
@@ -68,9 +60,11 @@
 
 * Quando e onde recebo o dinheiro da minha devolução. Disponível em: <https://www.mercadolivre.com.br/ajuda/5266>. Acesso em: 19 abr. 2023.
 * Como fazer uma reclamação no Mercado Livre? Disponível em: <https://www.tecmundo.com.br/internet/220659-fazer-reclamacao-mercado-livre.htm>. Acesso em: 20 abr. 2023.
+* Rich Pictures. Disponível em: <http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html> 
+* MANK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Oxford, 1998.
+* Software Development Project. Introducing Rich Pictures. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf>
 
-MANK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for
-Reasoning About Work Context. Oxford, 1998.
+
 
 REVADI, Chindy. CTEC2402 Rich Picture Guidelines.
 
