@@ -13,6 +13,9 @@ Apague tudo que estiver acima desta linha e preencha o template abaixo.
 # Descrição
 Descreva aqui o que foi feito no pull request, qual issue ele resolve e quais tarefas (tasks) forams feitas, etc. Seja o mais claro possível.
 
+## Issues relacionadas
+Adicione aqui as issues relacionadas a esse pull request, utilizando o formato `#<numero da issue>`. Se houver mais de uma, separe-as por vírgula. Exemplo: `#1, #2, #3`. Isso irá linkar as issues ao pull request e garantir que elas sejam fechadas quando o pull request for fechado.
+
 ### Tipo de mudança
 Qual tipo de mudança sua branch introduz no projeto?
 _Ponha um `x` nas caixas que se aplicam_ e apague o que não se aplicar.
