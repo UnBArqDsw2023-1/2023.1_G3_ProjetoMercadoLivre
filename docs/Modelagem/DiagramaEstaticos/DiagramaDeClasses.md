@@ -14,7 +14,7 @@ Nesse diagrama, as classes são representadas por retângulos, que contêm o nom
 <figcaption align='center'>
     <b>Figura 1 : diagrama de classes do sistema Mercado Livre</b>
     <br><small>Fonte: Elaboração Própria</small>
-    <br><small>Autor: Gustavo Martins Ribeiro</small>
+    <br><small>Autor: Kathlyn Murussi</small>
 </figcaption>
 
 ## 4. Conclusão
