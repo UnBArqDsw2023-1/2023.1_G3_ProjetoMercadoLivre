@@ -8,30 +8,37 @@
 - **Base**
 
   - 1.1 Módulo Projeto Não Orientando a Abordagens Específicas
-    - [Design Sprint](/Base/DesignSprint.md) 
-    - [5W2H](/Base/5W2H.md) 
-    - [Rich Picture](Base/Rich-picture.md) 
-    - [Mapa Mental](/Base/mapamental.md)
+    - [Design Sprint](/docs/Base/DesignSprint.md) 
+    - [5W2H](/docs/Base/5W2H.md) 
+    - [Rich Picture](/docsBase/Rich-picture.md) 
+    - [Mapa Mental](/docs/Base/mapamental.md)
 
     - [Tecnicias de eliticação](#)
 
-      - [Brainstorming](/Base/eliticacao/Brainstorming.md)
-      - [Story Board](/Base/eliticacao/StoryBoard.md)
+      - [Brainstorming](/docs/Base/eliticacao/Brainstorming.md)
+      - [Story Board](/docs/Base/eliticacao/StoryBoard.md)
 
 
   - 1.2 Módulo Processos, Metodologias e Abordagens
 
-    - [BPMN](Base/BPMN.md)
+    - [BPMN](/docsBase/BPMN.md)
 
-  - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
+  - [1.3. Participações - Base](/docs/Base/1.3.ParticipacoesBase.md)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)]()
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais]()
-      - [2.1.1. Notação UML – Diagramas Estáticos]()
-        - [Diagrama de Classes](/Modelagem/DiagramaDeClasses.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos]()
-    - [2.2. Participações - Modelagem]()
+  - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
+        - [Diagrama de Classes](/Modelagem/DiagramaEstaticos/DiagramaDeClasses.md)
+        - [Diagrama de Pacotes]()
+        - [Diagrama de Componentes]()
+        - [Diagrama de Implantação]()
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
+        - [Diagrama de Sequência](/docs/Modelagem/diagramasDinamicos/Diagramadesequência.md)
+        - [Diagrama de Comunicação](/Modelagem/diagramasDinamicos/)
+        - [Diagrama de Estados](/docs/Modelagem/diagramasDinamicos/DiagramadeEstados.md)
+        - [Diagrama de Atividades](/docs/Modelagem/diagramasDinamicos/DiagramadeAtividades.md)
+    - [2.2. Participações - Modelagem](/docs/Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)]()
