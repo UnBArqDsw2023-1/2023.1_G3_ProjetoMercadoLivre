@@ -41,4 +41,4 @@ Um exemplo de diagrama de componentes pode ser o de um sistema de comércio elet
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
-|15/05/2023|1.0|Criação do Diagrama de Componentes| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
+|15/05/2023|1.0|Criação do Diagrama de Componentes| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| [Kathlyn Lara](https://github.com/klmurussi), [Gian medeiros](https://github.com/GianMedeiros), [Lucas Rodrigues](https://github.com/nickby2), [Gustavo Martins](https://github.com/gustavomartins-github), [Vinícius Assumpção](https://github.com/viniman27) |
