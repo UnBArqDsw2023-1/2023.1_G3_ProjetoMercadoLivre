@@ -13,7 +13,7 @@
     - [Rich Picture](/docsBase/Rich-picture.md) 
     - [Mapa Mental](/docs/Base/mapamental.md)
 
-    - [Tecnicias de eliticação](#)
+    - [Técnicas de elicitação](#)
 
       - [Brainstorming](/docs/Base/eliticacao/Brainstorming.md)
       - [Story Board](/docs/Base/eliticacao/StoryBoard.md)
