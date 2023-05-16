@@ -71,4 +71,4 @@ Tutorial do Diagrama de Sequência: Guia completo com exemplos. Disponível em: 
 | Data | Versão | Descrição | Autor | Revisor | 
 | -----|--------|----------|------|-------- |
 | 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades e adição da primeira versão dos diagramas | [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy)  |
-| 12/05/2023 | 1.0.1 | Inclusão de fonte e legenda nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) ,  [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy)  |
+| 12/05/2023 | 1.0.1 | Inclusão de fonte e legenda nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) ,  [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy), [Rodolfo Neves](https://github.com/roddas), [Kathlyn Lara](https://github.com/klmurussi), [Gian medeiros](https://github.com/GianMedeiros), [Lucas Rodrigues](https://github.com/nickby2)|
