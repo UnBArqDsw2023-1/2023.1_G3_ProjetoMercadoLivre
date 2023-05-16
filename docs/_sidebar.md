@@ -4,6 +4,12 @@
 
 
 - **Ata de Reuniões**
+  - [Reunião 13/04/2023](Atasreuniao/Ata_13-04.md)
+  - [Reunião 16/04/2023](Atasreuniao/Ata_16-04.md)
+  - [Reunião 22/04/2023](Atasreuniao/Ata_22-04.md)
+  - [Reunião 04/05/2023](Atasreuniao/Ata_04-05.md)
+  - [Reunião 08/05/2023](Atasreuniao/Ata_08-05.md)
+  - [Reunião 12/05/2023](Atasreuniao/Ata_12-05.md)
 
 - **Base**
 
@@ -29,16 +35,16 @@
 - **Modelagem**
  - 2.1. Módulo Projeto Orientado a Abordagens Tradicionais
    - 2.1.1. Notação UML – Diagramas Estáticos
-     - [Diagrama de Componentes](Modelagem/diagramaComponentes.md)
-     - [Diagrama de Implantação](Modelagem/diagramaImplantacao.md)
-     - [Diagrama de Pacotes](Modelagem/diagramaPacotes.md)
-     - [Diagrama de Classes]()
-   - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
-     - [Diagrama de Sequência](docs/Modelagem/diagramasDinamicos/Diagramadesequência.md)
-     - [Diagrama de Comunicação](Modelagem/diagramasDinamicos/)
-     - [Diagrama de Estados](/docs/Modelagem/diagramasDinamicos/DiagramadeEstados.md)
-     - [Diagrama de Atividades](/docs/Modelagem/diagramasDinamicos/DiagramadeAtividades.md)
- - [2.2. Participações - Modelagem](/docs/Modelagem/2.2.ParticipacoesModelagem.md)
+     - [Diagrama de Componentes](Modelagem/UMLEstaticos/diagramaComponentes.md)
+     - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagramaImplantacao.md)
+     - [Diagrama de Pacotes](Modelagem/UMLEstaticos/diagramaPacotes.md)
+     - [Diagrama de Classes](Modelagem/UMLEstaticos/DiagramaDeClasses.md)
+   - 2.1.2. Notação UML – Diagramas Dinâmicos
+     - [Diagrama de Sequência](Modelagem/UMLDinamicos/Diagramadesequencia.md)
+     - [Diagrama de Comunicação](Modelagem/UMLDinamicos/diagramaDeComunicacao.md)
+     - [Diagrama de Estados](Modelagem/UMLDinamicos/DiagramadeEstados.md)
+     - [Diagrama de Atividades](Modelagem/UMLDinamicos/DiagramadeAtividades.md)
+ - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)]()

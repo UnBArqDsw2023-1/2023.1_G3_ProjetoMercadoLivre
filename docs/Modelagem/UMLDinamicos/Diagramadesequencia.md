@@ -38,7 +38,7 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
 
 # Diagrama de sequência do comprador
 
-![Diagrama de Sequência cliente](/docs/Assets/diagramasAgeisImg/DiagramaSeqComprador1.png)
+![Diagrama de Sequência cliente](../../Assets/diagramasAgeisImg/DiagramaSeqComprador1.png)
 
 <figcaption align='center'>
   <b>Figura 1: Diagrama de sequência do comprador</b>
@@ -49,7 +49,7 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
 
 # Diagrama de sequência do vendedor
 
-![Diagrama de Sequência vendedor](/docs/Assets/diagramasAgeisImg/DiagramaSeqVendedor1.png)
+![Diagrama de Sequência vendedor](../../Assets/diagramasAgeisImg/DiagramaSeqVendedor1.png)
 
 <figcaption align='center'>
   <b>Figura 2: Diagrama de sequência do vendedor</b>

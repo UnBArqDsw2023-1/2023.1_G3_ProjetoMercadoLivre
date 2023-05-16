@@ -36,7 +36,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ### Abertura do processo de reclamação pelo cliente
 
-![Diagrama de Atividades Comprador](/docs/Assets/diagramasAgeisImg/DiagramaDeAtividadesComprador.png)
+![Diagrama de Atividades Comprador](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesComprador.png)
 
 <figcaption align='center'>
   <b>Figura 1: Diagrama de atividades de abertura do processo de reclamação pelo cliente</b>
@@ -47,7 +47,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ### Processamento da comunicação pelo vendedor
 
-![Diagrama de Atividades Vendedor](/docs/Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedor.png)
+![Diagrama de Atividades Vendedor](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedor.png)
 
 <figcaption align='center'>
   <b>Figura 2: Diagrama de atividades de processamento da comunicação pelo vendedor</b>
@@ -64,7 +64,7 @@ UML DIAGRAMS. UML Communication Diagrams Overview. Disponível em: https://www.u
 
 Diagramas de Atividades. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 09 de maio de 2023.
 
-## Histório de Versionamento
+## Histórico de Versionamento
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------

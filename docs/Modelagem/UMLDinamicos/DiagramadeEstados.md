@@ -24,7 +24,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 ## Diagrama
 
-![Diagrama de Estados](/docs/Assets/diagramasAgeisImg/DiagramaEstados_v2.png)
+![Diagrama de Estados](../../Assets/diagramasAgeisImg/DiagramaEstados_v2.png)
 
 <figcaption align='center'>
   <b>Figura 1: Diagrama de Estados</b>
