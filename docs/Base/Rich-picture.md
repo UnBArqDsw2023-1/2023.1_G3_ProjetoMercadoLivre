@@ -48,7 +48,7 @@ Reasoning About Work Context. Oxford, 1998.
 REVADI, Chindy. CTEC2402 Rich Picture Guidelines.
 
 ‌ 
-## 5. Versionamento
+## 5. Histórico de versionamento
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|

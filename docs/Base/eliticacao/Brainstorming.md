@@ -48,13 +48,13 @@
 
 
 
-##  Referências
+##  6. Referências
 
 Wiegers, Karl; Beatty, Joy. Software Requirements (Developer Best Practices).
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
-##  Histórico de Versionamento
+##  7. Histórico de versionamento
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
