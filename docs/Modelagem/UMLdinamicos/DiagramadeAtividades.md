@@ -20,11 +20,11 @@ Nos diagramas de atividade, um nó de controle é um nó de atividade abstrata q
 
 4. Nós do Objeto
 
-Nos diagramas de atividades, um nó de objeto é um nó de atividade abstrato que ajuda a definir o fluxo de objetos em uma atividade. Um nó de objeto indica que uma instância de um classificador pode estar disponível em um ponto específico na atividade.
+Nos diagramas de atividades, um nó de objeto é um nó de atividade abstrata que ajuda a definir o fluxo de objetos em uma atividade. Um nó de objeto indica que uma instância de um classificador pode estar disponível em um ponto específico na atividade.
 
 5. Linhas de Atividade
 
-Nos diagramas de atividades, uma extremidade de atividade é uma conexão direcionada entre dois nós de atividade. Quando uma ação específica em uma atividade é concluída, a linha de atividade continua o fluxo para a próxima ação na sequência.
+Nos diagramas de atividades, uma extremidade de atividade é uma conexão direcionada entre dois nós de atividade. Quando uma ação específica em uma atividade é concluída, a linha de atividade contínua o fluxo para a próxima ação na sequência.
 
 A partir do entendimento da diagramação e de seus elementos, foram desenvolvidos diagramas para 2 tipos de casos de usos diferentes encontrados no projeto:
 
@@ -58,11 +58,11 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ## Referências
 
-SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 09 de maio 2023.
+SERRANO, Milene. Diagrama de Colaboração, 2022. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 09 de maio de 2023.
 
-UML DIAGRAMS. UML Communication Diagrams Overview. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 09 de maio 2023.
+UML DIAGRAMS. UML Communication Diagrams Overview. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 09 de maio de 2023.
 
-Diagramas de Atividades. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 09 de maio 2023.
+Diagramas de Atividades. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 09 de maio de 2023.
 
 ## Histório de Versionamento
 
