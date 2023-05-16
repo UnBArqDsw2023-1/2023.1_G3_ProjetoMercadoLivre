@@ -1,7 +1,7 @@
 # Artefato Diagrama de Classes
 
 ## 1. Introdução
-O Diagrama de Classes é uma ferramenta visual utilizada na modelagem de sistemas orientados a objetos. Ele descreve a estrutura estática, baseada no padrão UML, de um sistema, representando suas classes, atributos, métodos e relacionamentos. Diante disso, o objetivo principal dessa ferramenta consiste em fornecer uma modelagem clara e concisa das entidades que compõem um sistema.
+O Diagrama de Classes é uma ferramenta visual utilizada na modelagem de sistemas orientados a objetos. Ele descreve a estrutura estática, baseada no padrão UML, de um sistema, representando suas classes, atributos, métodos e relacionamentos. Diante disso, o objetivo principal desta ferramenta consiste em fornecer uma modelagem clara e concisa das entidades que compõem um sistema.
 
 ## 2. Metodologia
 Nesse diagrama, as classes são representadas por retângulos, que contêm o nome da classe no topo e, internamente, os atributos e métodos associados. Os relacionamentos entre as classes são representados por linhas, que podem indicar associações, agregações, composições, heranças, entre outros. Esses relacionamentos são fundamentais para entender a inter-relação entre as classes, assim como a interação dessas classes com o sistema em si.
@@ -18,16 +18,16 @@ Nesse diagrama, as classes são representadas por retângulos, que contêm o nom
 </figcaption>
 
 ## 4. Conclusão
-  Por meio do desenvolvimento do artefato Diagrama de CLasses, assim como o resultado final, o projeto evolui no que tange ao conhecimento sobre os elementos mais importantes do sistema Mercado Livre. Sendo assim, tal artefato, além de enrriquecer o projeto, poderá servir de base para outros artefatos futuros.
+  Por meio do desenvolvimento do artefato Diagrama de Classes, assim como o resultado final, o projeto evolui no que tange ao conhecimento sobre os elementos mais importantes do sistema Mercado Livre. Sendo assim, tal artefato, além de enrriquecer o projeto, poderá servir de base para outros artefatos futuros.
 
 ## 5. Referências
-SERRANO, Milene. DSW-Modelagem - Diagrama de Classe, 2020. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de Engenharia de Software da UnB, FGA [Video Aula]. Acesso em: 14 de maio 2023.
+SERRANO, Milene. DSW-Modelagem - Diagrama de Classe, 2020. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de Engenharia de Software da UnB, FGA [Video Aula]. Acesso em: 14 de maio de 2023.
 
-ALVES, Nelio. Programação Orientada a Objetos com Java: Enumerações, Composição [Curso online]. Recuperado de http://educandoweb.com.br. Acesso em: 14 de maio 2023.
+ALVES, Nelio. Programação Orientada a Objetos com Java: Enumerações, Composição [Curso online]. Recuperado de http://educandoweb.com.br. Acesso em: 14 de maio de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------| 
-| 1.0 | 14/05/2023 | 15/05/2023 | Criação do artefato | [Kathlyn Murussi](https://github.com/klmurussi) | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) | 
+| 1.0 | 14/05/2023 | 15/05/2023 | Criação do artefato | [Kathlyn Murussi](https://github.com/klmurussi) | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) e [Gian Medeiros](https://github.com/GianMedeiros) |
 
