@@ -151,7 +151,7 @@ Com o auxílio da docente, a equipe pôde compreender melhor como proteger o art
 
 > Prof. Milene Serrano, disciplina Arquitetura e Desenho de Software. Base - Metodologia, BPMN
 
-## 9. Versionamento
+## 9. Histórico de versionamento
 
 |    Data    | Versão |      Descrição       |                   Autor(a)                    |                   Revisor(a)                    |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ----------------------------------------------- |
@@ -160,4 +160,4 @@ Com o auxílio da docente, a equipe pôde compreender melhor como proteger o art
 | 22/04/2023 |  1.2   | Escolha dos artefatos, BPMN, Comunicação e Referências Bibliográficas | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Vinícius Assumpção](https://github.com/viniman27) |
 |22/04/2023| 1.2.1 | Concertando link que quebra pagina | [Erick levy](https://github.com/Ericklevy) |  [Vinícius Assumpção](https://github.com/viniman27) |
 | 22/04/2023 | 1.2 | Correções e pequenas melhorias | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | [João Pedro Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Vinícius Assumpção](https://github.com/viniman27) |
-| 24/04/2023 |  1.3   | Adição de um tópico| [Erick levy](https://github.com/Ericklevy) |    |
+| 24/04/2023 |  1.3   | Adição de um tópico| [Erick levy](https://github.com/Ericklevy) |  [Kathlyn Murussi](https://github.com/klmurussi)  |
