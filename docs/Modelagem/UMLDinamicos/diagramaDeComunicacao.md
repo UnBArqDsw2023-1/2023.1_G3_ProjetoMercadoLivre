@@ -2,9 +2,11 @@
 
 ## Introdução
 
-<p align='justify' > Diagrama de comunicação, também conhecido como diagrama de colaboração, na versão <span font-style='italic'>1.x</span> é um tipo de diagrama de interação UML que apresenta interações entre objetos e/ou partes utilizando mensagens sequenciadas num arranjo de forma livre. o mesmo corresponde a um diagrama de sequência simples sem mecanismos de estruturas como uso de interações e fragmentos combinados.</p>
+<p align='justify' > Diagrama de comunicação, também conhecido como diagrama de colaboração, na versão <span font-style='italic'>1.x</span> é um tipo de diagrama de interação UML que apresenta interações entre objetos e/ou partes utilizando mensagens sequenciadas num arranjo de forma livre. O mesmo corresponde a um diagrama de sequência simples sem mecanismos de estruturas como uso de interações e fragmentos combinados.</p>
 
 ## Metodologia
+
+> As Figuras de 1 a 5 utilizadas nesta seção são de autoria de FAKHROUTDINOV, Kirill [1].
 
 Este mesmo diagrama é composto por vários elementos, dentre os quais:
 
@@ -23,7 +25,6 @@ Este mesmo diagrama é composto por vários elementos, dentre os quais:
 
 <figcaption align='center'>
     <p>Figura 1: Quadro de interação para o diagrama de comunicação BuyItem</p>
-    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 
@@ -33,7 +34,6 @@ Este mesmo diagrama é composto por vários elementos, dentre os quais:
 
 <figcaption align='center'>
     <p>Figura 2: Quadro de interação para o diagrama de comunicação BuyItem, na forma curta.</p>
-    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 ### Lifeline
@@ -59,14 +59,12 @@ Onde **class-name** é o tipo referenciado pelo elemento conectável representad
 
 <figcaption align='center'>
     <p>Figura 3 : Lifeline anônima da classe User.</p>
-    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 ![imagem](../../Assets/02.png)
 
 <figcaption align='center'>
     <p>Figura 4 : Lifeline x da classe K é selecionada com o seletor [k]</p>
-    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 <p align='justify'>
@@ -81,7 +79,6 @@ A mensagem no diagrama de comunicação é mostrada como uma linha com uma expre
 
 <figcaption align='center'>
     <p>Figura 5 : A instância da classe A envia a mensagem remove() para a instância de B se s1 for igual a s2</p>
-    <p>Fonte: KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html)</p>
 </figcaption>
 
 
@@ -105,7 +102,7 @@ Por exemplo, **3b.2.2:m5** contém a expressão de sequência **3b.2.2** e o nom
 
 ## Referências
 
-* KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html).
+[1] KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html).
 
 ## Histórico de versão
 
@@ -114,4 +111,4 @@ Por exemplo, **3b.2.2:m5** contém a expressão de sequência **3b.2.2** e o nom
 | 13/05/2023 | 1.0 | Criação do documento inicial | [Rodolfo Cabral Neves](https://github.com/roddas) | [Erick Levy](https://github.com/Ericklevy/) |
 | 13/05/2023 | 1.1 | Criação do diagrama de comunicação do mercado livre | [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Kathlyn Lara Murussi](https://github.com/klmurussi/) |
 | 13/05/2023 | 1.2 | Adição da legenda da última figura | [Rodolfo Cabral Neves](https://github.com/roddas) | [Erick Levy](https://github.com/Ericklevy/) |
-| 13/05/2023 | 1.2 | Adição da legenda da última figura | [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Erick Levy](https://github.com/Ericklevy/) |
+| 13/05/2023 | 1.2 | Adição da legenda da última figura | [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Erick Levy](https://github.com/Ericklevy/) e [Kathlyn Murussi](https://github.com/klmurussi)|
