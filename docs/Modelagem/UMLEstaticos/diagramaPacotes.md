@@ -16,7 +16,7 @@ Por exemplo, em um sistema de comércio eletrônico, o diagrama de pacotes pode 
 
 ## 3. Resultados
 
-![Diagrama de Pacotes](../Assets/Componentes-pacotes-Implantacao/diagramadepacotes.jpeg)
+![Diagrama de Pacotes](../../Assets/Componentes-pacotes-Implantacao/diagramadepacotes.jpeg)
 
 <figcaption align='center'>
     <b>Figura : Diagrama de Pacotess</b>
@@ -36,9 +36,16 @@ Por exemplo, em um sistema de comércio eletrônico, o diagrama de pacotes pode 
 
 - [Heitor Marques](https://github.com/heitormsb)
 
+## 5. Referências
+
+Documentação UML da OMG em português: A Organização de Modelagem de Objetos (OMG) disponibiliza uma versão traduzida da documentação oficial sobre UML, que inclui informações sobre diagramas de componentes. Você pode acessar o material em: https://www.omg.org/spec/UML/2.5/PDF/ Acesso em: 12 de maio de 2023.
 
 
-## 5. Histórico de versionamento
+[Lucidchart - Página Principal](https://www.lucidchart.com/pages/?gspk=eXVsaWFzYWRvdmExOTMz&gsxid=kYBpGkxU1XWV&pscd=try.lucid.co&sid=3CelFZqZJbPzD05cQdLVXoKoMG9zXFuah1JlSyx9uaYSFt)<br>
+
+[YouTube - Vídeo sobre Diagrama de Pacotes](https://www.youtube.com/watch?v=o4srs54NciI)<br>
+
+## 6. Histórico de versionamento
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|

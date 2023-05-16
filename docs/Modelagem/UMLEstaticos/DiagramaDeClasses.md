@@ -25,7 +25,7 @@ SERRANO, Milene. DSW-Modelagem - Diagrama de Classe, 2020. Material apresentado 
 
 ALVES, Nelio. Programação Orientada a Objetos com Java: Enumerações, Composição [Curso online]. Recuperado de http://educandoweb.com.br. Acesso em: 14 de maio de 2023.
 
-## Histórico de Versões
+## 6. Histórico de Versionamento
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------| 

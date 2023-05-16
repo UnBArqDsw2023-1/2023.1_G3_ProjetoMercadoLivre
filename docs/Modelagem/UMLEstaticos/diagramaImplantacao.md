@@ -18,7 +18,7 @@
 
 ## 3. Resultados
 
-![Diagrama de Implantação](../Assets/Componentes-pacotes-Implantacao/diagramadeImplantacao.jpeg)
+![Diagrama de Implantação](../../Assets/Componentes-pacotes-Implantacao/diagramadeImplantacao.jpeg)
 
 <figcaption align='center'>
     <b>Figura : Diagrama de Implantação</b>
@@ -37,8 +37,17 @@
 - [Heitor Marques](https://github.com/heitormsb)
 
 
+## 5. Referências
 
-## 5. Histórico de versionamento
+Documentação UML da OMG em português: A Organização de Modelagem de Objetos (OMG) disponibiliza uma versão traduzida da documentação oficial sobre UML, que inclui informações sobre diagramas de componentes. Você pode acessar o material em: https://www.omg.org/spec/UML/2.5/PDF/ Acesso em: 12 de maio de 2023.
+
+
+[Creately - Tutorial do Diagrama de Implantação](https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/#:~:text=Um%20diagrama%20de%20implanta%C3%A7%C3%A3o%20%C3%A9,software%20f%C3%ADsico%20de%20um%20sistema.)<br>
+
+[YouTube - Vídeo sobre Diagrama de Implantação](https://www.youtube.com/watch?v=P0wXFFsdMzI)<br>
+
+
+## 6. Histórico de versionamento
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
