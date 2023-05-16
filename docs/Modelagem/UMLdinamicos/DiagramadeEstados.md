@@ -18,7 +18,7 @@ Como a maioria dos diagramas UML, diagramas de estados têm diversos usos. As pr
 
 * Ilustrar cenários de caso de uso em um contexto de negócios.
 
-* Descrever como um objeto se move por vários estados em seu tempo vida.
+* Descrever como um objeto se move por vários estados em seu tempo de vida.
 
 * Mostrar o comportamento geral de uma máquina de estados ou o comportamento de um conjunto relacionado de máquinas de estados.
 
