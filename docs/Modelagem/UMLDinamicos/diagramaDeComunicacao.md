@@ -14,7 +14,7 @@ Este mesmo diagrama é composto por vários elementos, dentre os quais:
 
 ### Quadro *(ou frame)*
 
-<p align='justify' >Diagramas de comunicação devem ser apresentado dentro de um quadro retangular com o nome, num compartimento no canto superior esquerdo. Não existe um formato longo específico para tipo de cabeçalho de diagramas de comunicação. A forma longa do nome de forma longa <span font-weight='bold' >interaction</span> pode ser utilizado. </p>
+<p align='justify' >Diagramas de comunicação devem ser apresentados dentro de um quadro retangular com o nome, num compartimento no canto superior esquerdo. Não existe um formato longo específico para tipo de cabeçalho de diagramas de comunicação. A forma longa do nome de forma longa <span font-weight='bold' >interaction</span> pode ser utilizado. </p>
 <p align='justify' >
 </p>
 
@@ -70,7 +70,7 @@ Onde **class-name** é o tipo referenciado pelo elemento conectável representad
 </figcaption>
 
 <p align='justify'>
-Se o nome for a palavra-chave self, então o lifeline representa o objeto do classificador que inclui a interação que possui a linha de vida. As portas do invólucro podem ser mostradas separadamente, mesmo quando auto estiver incluído.
+Se o nome for a palavra-chave self, então o lifeline representa o objeto do classificador que inclui a interação que possui a linha de vida. As portas do invólucro podem ser mostradas separadamente, mesmo quando o auto estiver incluído.
 </p>
 
 ### Mensagem
