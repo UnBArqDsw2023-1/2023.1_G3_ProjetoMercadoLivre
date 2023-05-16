@@ -10,7 +10,7 @@
 </p>
 
 
-## 2. metodologia
+## 2. Metodologia
 
 <p align="justify">
     Para elaborar este documento e o diagrama de implantação, primeiramente finalizamos o diagrama de componentes para modelar este novo diagrama de acordo com o que foi feito. Os integrantes do grupo realizaram uma reunião por meio do Discord, onde apresentaram cada etapa do processo e demonstraram o que havia sido feito no Lucidchart. Após avaliação e discussão em relação às diretrizes do Mercado Livre, o grupo concordou que o trabalho estava finalizado. Além disso, os integrantes se comunicaram e se verificaram por meio do Telegram para garantir a qualidade do trabalho.
@@ -42,4 +42,4 @@
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
-|15/05/2023|1.0|Criação do Diagrama de Componentes| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
+|15/05/2023|1.0|Criação do Diagrama de Componentes| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| [Kathlyn Murussi](https://github.com/klmurussi)
