@@ -18,7 +18,7 @@
     - [Design Sprint](Base/DesignSprint.md) 
     - [5W2H](Base/5W2H.md) 
     - [Rich Picture](Base/Rich-picture.md) 
-    - [Mapa Mental](Base/mapamental.md)
+    - [Mapa Mental](Base/mapamental.md) 
 
     - [Técnicas de elicitação](#)
 
