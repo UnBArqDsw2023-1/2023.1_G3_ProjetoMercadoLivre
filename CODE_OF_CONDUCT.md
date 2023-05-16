@@ -12,7 +12,7 @@ Exemplos de comportamento que contribuem para criar um ambiente positivo incluem
 
 Exemplos de comportamento inaceitável por parte dos participantes incluem:
 
-* O uso de linguagem ou imagens de conatação sexual
+* O uso de linguagem ou imagens de conotação sexual
 * Comentários insultuosos ou depreciativos e ataques pessoais ou políticos
 * Assédio, sendo público ou não
 * Publicar informações privadas de terceiros sem permissão explícita, como fotos ou endereços físicos
