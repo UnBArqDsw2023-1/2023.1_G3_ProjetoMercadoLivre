@@ -16,4 +16,4 @@ Para agregar toda a equipe, a linguagem decidida na implementação do projeto s
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 08/12/2022 | 1.0.0 | Criação do documento | [Vinicius Assumpção](https://github.com/viniman27) |  [Gabriel Roger](https://github.com/GabrielRoger07) ,  [João Pedro Vaz](https://github.com/JoaoPedro0803)  |
+| 05/06/2023 | 1.0.0 | Criação do documento | [Vinicius Assumpção](https://github.com/viniman27) |  [Gabriel Roger](https://github.com/GabrielRoger07) ,  [João Pedro Vaz](https://github.com/JoaoPedro0803)  |
