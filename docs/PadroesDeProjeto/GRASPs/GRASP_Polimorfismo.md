@@ -18,7 +18,7 @@ O padrão polimorfismo trabalha na organização das classes utilizando operaç�
 - Facilidade em estender o projeto com novas funcionalidades;
 
 ### Implementação no Mercado Livre
-O GRASP polimorfismo foi utilizado na herança do Processo em UsuarioAnunciante e UsuarioAdotante, a especialidade escolhida, além das outras também existentea, possuindo funcionalidades diferentes no projeto. Segue nosso diagrama de classe [Diagrama de Classe](docs/Modelagem/UMLEstaticos/DiagramaDeClasses.md).
+O GRASP polimorfismo foi utilizado na herança do Processo em UsuarioAnunciante e UsuarioAdotante, a especialidade escolhida, além das outras também existentea, possuindo funcionalidades diferentes no projeto. Segue nosso diagrama de classe [Diagrama de Classe](Modelagem/UMLEstaticos/DiagramaDeClasses.md).
 
 
 ### Referências
