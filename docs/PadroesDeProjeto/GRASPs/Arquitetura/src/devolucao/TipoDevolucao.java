@@ -1,5 +1,7 @@
 package devolucao;
 
+// Tipos diferentes de devolução
+
 public enum TipoDevolucao {
     PRODUTO_DEFEITUOSO,
     ITEM_INCORRETO_ENVIADO,
