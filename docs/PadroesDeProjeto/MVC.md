@@ -12,7 +12,7 @@ Outra informação relevante refere-se ao MVC ser amplamente utilizado em aplica
 Assim, os padrões de projeto arquiteturais, como o MVC, fornecem uma estrutura e diretrizes para projetar a estrutura geral de um sistema, promovendo a modularidade, a reusabilidade e a manutenibilidade.
 </p> 
 
-## 1. METODOLOGIA
+## 2. METODOLOGIA
 <p align="justify">
 A metodologia do Modelo-View-Controller (MVC) é uma abordagem de desenvolvimento de software que segue uma estrutura organizacional específica. Ela divide as responsabilidades em três componentes principais: o Modelo (Model), a Visão (View) e o Controlador (Controller).
 
@@ -25,9 +25,17 @@ Controlador (Controller): O controlador atua como intermediário entre o modelo 
 A interação entre os componentes é gerenciada de acordo com o fluxo de controle do MVC. Normalmente, o usuário interage com a visão, que aciona eventos que são capturados pelo controlador. O controlador, por sua vez, atualiza o modelo conforme necessário e notifica a visão sobre as alterações. A visão, então, obtém os dados atualizados do modelo e os apresenta ao usuário.
 </p> 
 
-## 1. ARTEFATO: Diagrama de Pacotes MVC
+## 3. ARTEFATO: Diagrama de Pacotes MVC
+
 Diante do exposto, a partir da modelagem conceitual ([Diagrama de Classes Geral do projeto](https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLEstaticos/DiagramaDeClasses)), foi desenvolvido um diagrama de pacotes, mais precisamente contendo 3 pacotes, um para cada nível de responsabilidade (Modelo, Visão e Controlador).
 Por meio desse diagrama, é possível vizualisar o fluxo de páginas a partir de associações simples entre as páginas de interação com os usuários no pacote View, as  regras de negócio, entidades, camada de acesso à dados no pacote Model  e, por fim,
 a coordeção e controle do fluxo de dados entre a model e a view no pacote Controller. A figura 1 a seguir apresenta este diagrama.
 
-![Diagrama de Componentes](../../Assets/Componentes-pacotes-Implantacao/DiagramaPacotesMVC.png)
+
+![DiagramaPacotesMVC](../../Assets/DiagramaPacotesMVC.png)
+
+## 4. Conclusão
+Com o artefato MVC em mãos, temos uma modelagem arquitetural a qual traz uma organização geral para o sistema.
+Além disso, o MVC pode ser combinado com outros padrões e princípios de design, como o GRASP e o GOF, para obter soluções mais completas e eficazes. O GRASP auxilia na definição correta das responsabilidades entre as classes e objetos do MVC, enquanto o GOF oferece uma coleção de padrões que podem ser aplicados para resolver problemas específicos dentro do contexto do MVC.
+No geral, o padrão MVC promove a modularidade, a reutilização de código, a legibilidade e a manutenção simplificada. Ele continua sendo uma abordagem popular e valiosa no desenvolvimento de software, especialmente em aplicações que exigem uma separação clara entre a lógica de negócios e a interface do usuário.
+
