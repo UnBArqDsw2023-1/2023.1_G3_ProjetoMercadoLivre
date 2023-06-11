@@ -1,5 +1,7 @@
 package estorno;
 
+// Tipos diferentes de estorno
+
 public enum TipoEstorno {
     TRANSACAO_NAO_AUTORIZADA,
     TRANSACAO_FRAUDULENTA,
