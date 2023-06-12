@@ -57,10 +57,14 @@
       - [GOF-Adapter](PadroesDeProjeto/gof-adapter.md)
       - [GOF-Template-Method](PadroesDeProjeto/gof-template-method.md)
     - [3.3. Módulo Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
+
+    - [3.4. MVC](PadroesDeProjeto/MVC.md)
+
       - [MVC](PadroesDeProjeto/MVC.md)
     - [3.4. Iniciativas Extras]()
       - [Paternite](PadroesDeProjeto/Iniciativas-Extras/Paternite.md)
       - [Padrões de Implementação](PadroesDeProjeto/Iniciativas-Extras/Padrões-de-Implementação.md)
+
    
   - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
