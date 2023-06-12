@@ -52,19 +52,17 @@
 
 - **Padrões de Projeto**
   - 3.1. Módulo Padrões de Projeto GRASPs
-      - [3.1.1 Grasp Alta Coesão](PadroesDeProjeto/GRASPs/GRASP_AltaCoesao.md)
-      - [3.1.2 Grasp Polimorfismo](PadroesDeProjeto/GRASPs/GRASP_Polimorfismo.md)
+    - [Grasp Alta Coesão](PadroesDeProjeto/GRASPs/GRASP_AltaCoesao.md)
+    - [Grasp Polimorfismo](PadroesDeProjeto/GRASPs/GRASP_Polimorfismo.md)
   - 3.2. Módulo Padrões de Projeto GoFs
-      - [3.2.1 GOF-Decorator](PadroesDeProjeto/GoF-Decorator.md)
-      - [3.2.2 GOF-Adapter](PadroesDeProjeto/gof-adapter.md)
-      - [3.2.3 GOF-Template-Method](PadroesDeProjeto/gof-template-method.md)
+    - [GOF-Decorator](PadroesDeProjeto/GoF-Decorator.md)
+    - [GOF-Adapter](PadroesDeProjeto/gof-adapter.md)
+    - [GOF-Template-Method](PadroesDeProjeto/gof-template-method.md)
   - 3.3. Módulo Padrões de Projeto Extras
-    - [3.3.1 MVC](PadroesDeProjeto/MVC.md)
+    - [MVC](PadroesDeProjeto/MVC.md)
   - 3.4. Iniciativas Extras
-      - [Paternite](PadroesDeProjeto/Iniciativas-Extras/Paternite.md)
-      - [Padrões de Implementação](PadroesDeProjeto/Iniciativas-Extras/Padrões-de-Implementação.md)
-
-   
+    - [Paternite](PadroesDeProjeto/Iniciativas-Extras/Paternite.md)
+    - [Padrões de Implementação](PadroesDeProjeto/Iniciativas-Extras/Padrões-de-Implementação.md)
   - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
