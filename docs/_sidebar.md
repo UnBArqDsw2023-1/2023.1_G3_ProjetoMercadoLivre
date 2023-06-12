@@ -10,6 +10,9 @@
   - [Reunião 04/05/2023](Atasreuniao/Ata_04-05.md)
   - [Reunião 08/05/2023](Atasreuniao/Ata_08-05.md)
   - [Reunião 12/05/2023](Atasreuniao/Ata_12-05.md)
+  - [Reunião 29/05/2023](Atasreuniao/Ata-29-05.md)
+  - [Reunião 01/06/2023](Atasreuniao/Ata_01-06.md)
+  - [Reunião 05/06/2023](Atasreuniao/Ata_05-06.md)
 
 - **Base**
 
@@ -49,8 +52,14 @@
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)]()
-    - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
-    - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
+    - 3.1. Módulo Padrões de Projeto GRASPs
+      - [Alta Coesão](/docs/PadroesDeProjeto/GRASPs/GRASP_AltaCoesao.md)
+      - [Polimorfismo](/docs/PadroesDeProjeto/GRASPs/GRASP_Polimorfismo.md)
+      -
+    - 3.2. Módulo Padrões de Projeto GoFs
+      - [Adapter](/docs/PadroesDeProjeto/gof-adapter.md)
+      - [Decorator](/docs/PadroesDeProjeto/GoF-Decorator.md)
+      - [Template Method](/docs/PadroesDeProjeto/gof-template-method.md)
     - [3.3. Módulo Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras]()
    
