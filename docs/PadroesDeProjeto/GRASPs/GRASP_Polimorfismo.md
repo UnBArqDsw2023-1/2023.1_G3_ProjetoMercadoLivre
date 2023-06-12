@@ -35,12 +35,12 @@ Segue nossa diagramação UML para representação da implementação do padrão
 
 #### 2.2.2 Código
 
-Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso de estorno, foi utilizado uma classe pai OperacaoEstorno e classes filhas para cada motivo de estorno. Já para o caso de devolução, foi utilizado uma classe pai OperacaoDevolucao e classes filhas para cada motivo de devolução.
+Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso de estorno, foi utilizado uma classe pai OperacaoEstorno e classes filhas para cada motivo de estorno. Já para o caso de devolução, foi utilizado uma classe pai OperacaoDevolucao e classes filhas para cada motivo de devolução. Além disso, o código completo pode ser acessado [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/tree/main/docs/PadroesDeProjeto/GRASPs/Arquitetura/src).
 
 ![Classe pai estorno](../../Assets/GRASP/ClassePaiEstorno.png)
 
 <figcaption align='center'>
-    <b>Figura 1 : Diagramação UML</b>
+    <b>Figura 2 : Classe pai de estorno</b>
     <br><small>Fonte: Elaboração Própria</small>
     <br><small>Autores: Gabriel Roger, Vinícius Assumpção e João Pedro</small>
 </figcaption>
@@ -48,7 +48,7 @@ Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso
 ![Exemplo de classe filha estorno](../../Assets/GRASP/ClasseFilhaEstorno.png)
 
 <figcaption align='center'>
-    <b>Figura 1 : Diagramação UML</b>
+    <b>Figura 3 : Exemplo de classe filha de estorno</b>
     <br><small>Fonte: Elaboração Própria</small>
     <br><small>Autores: Gabriel Roger, Vinícius Assumpção e João Pedro</small>
 </figcaption>
@@ -56,7 +56,7 @@ Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso
 ![Classe pai devolução](../../Assets/GRASP/ClassePaiDevolucao.png)
 
 <figcaption align='center'>
-    <b>Figura 1 : Diagramação UML</b>
+    <b>Figura 4 : Classe pai de devolução</b>
     <br><small>Fonte: Elaboração Própria</small>
     <br><small>Autores: Gabriel Roger, Vinícius Assumpção e João Pedro</small>
 </figcaption>
@@ -64,7 +64,7 @@ Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso
 ![Exemplo de classe filha devolução](../../Assets/GRASP/ClasseFilhaDevolucao.png)
 
 <figcaption align='center'>
-    <b>Figura 1 : Diagramação UML</b>
+    <b>Figura 5 : Exemplo de classe filha de devolução</b>
     <br><small>Fonte: Elaboração Própria</small>
     <br><small>Autores: Gabriel Roger, Vinícius Assumpção e João Pedro</small>
 </figcaption>
@@ -89,3 +89,4 @@ Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso
 | 05/06/2023 | 1.0.0 |  Configuração inicial do artefato de Padrões GRASPs | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
 | 12/06/2023 | 1.0.1 | Configuração inicial das imagens de modelagem e código | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Erick Levy](https://github.com/Ericklevy) |
 | 12/06/2023 | 1.0.2 | Adição de imagens e correção de hyperlink | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Erick Levy](https://github.com/Ericklevy) |
+| 12/06/2023 | 1.0.3 | Adição de hyperlink para o código | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
