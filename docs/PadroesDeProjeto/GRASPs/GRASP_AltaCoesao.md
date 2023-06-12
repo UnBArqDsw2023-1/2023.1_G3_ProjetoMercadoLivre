@@ -1,10 +1,10 @@
-# 3.1. Módulo Padrões de Projeto GRASPs
+# Módulo Padrões de Projeto GRASPs
 
-## 3.1.1. Introdução
+## 1. Introdução
 
 Padrões de projeto são princípios e soluções usados durante a criação de um software, codificados em um formato estruturado, descrevendo o problema e a respectiva solução adotada. Com isso, GRASP, ou Padrões de Software para Atribuição de Responsabilidade Geral em português, é um tipo de padrões de projeto que pode ser aplicado para o desenvolvimento de um projeto. Em outras palavras, os padrões GRASP são princípios descritos de modo metódico, explicável e repetível para atribuir as responsabilidades (fazer e conhecer) dos papéis (objetos).
 
-## 3.1.2. GRASP de Alta Coesão
+## 2. GRASP de Alta Coesão
 
 O padrão de projeto de alta coesão se refere à atribuição de responsabilidades de maneira a maximizar a coesão em uma classe ou módulo. Isso significa que todas as responsabilidades de uma classe ou módulo devem estar relacionadas e trabalhar em conjunto para atingir um objetivo comum.
 
@@ -37,13 +37,14 @@ No Back-end, um exemplo mais simples é a utilização do padrão gerado pelo MV
 
 *Note*: As imagens apresentadas podem ser alteradas, tendo em vista que o projeto está em constante desenvolvimento.
 
-# 3.2 Referências
+# 3. Referências
 
 * SILVA. Ramon. Página do Engenheiro Ramon Ferreira Silva: Padrões GRASP. Rio de Janeiro, 10 mar. 2021. Disponível em: https://www.ramonsilva.net/post/alta-coes%C3%A3o-padr%C3%B5es-grasp. Acesso em: 05 de junho de 2023.
 * Projeto semestre anterior: Módulo Padrões de Projeto GRASPs. Disponível em: https://unbarqdsw2022-1.github.io/2022.1_G2_DonAct/#/PadroesDeProjeto/3.1.GRASPs. Acesso em: 05 de junho de 2023.
 
-## Histórico de Versões
+## 4. Histórico de Versões
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
 | 05/06/2023 |  1.0.0 |  Configuração inicial do artefato de Padrões GRASPs | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 12/06/2023 | 1.0.1 | Adição de numeração nos tópicos para padronização | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
