@@ -35,9 +35,6 @@ No projeto do grupo 3, foi definido desde o começo que desenvolveríamos com o 
 
 No Back-end, um exemplo mais simples é a utilização do padrão gerado pelo MVC de OO em java.
 
-![image]()<br>
-*Imagem 3: Conjunto de arquivos para organização em Java. Fonte: Autores do documento*
-
 *Note*: As imagens apresentadas podem ser alteradas, tendo em vista que o projeto está em constante desenvolvimento.
 
 # 3.2 Referências

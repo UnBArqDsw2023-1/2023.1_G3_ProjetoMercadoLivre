@@ -50,9 +50,21 @@
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)]()
     - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
+      - [Grasp Alta Coesão](PadroesDeProjeto/GRASPs/GRASP_AltaCoesao.md)
+      - [Grasp Polimorfismo](PadroesDeProjeto/GRASPs/GRASP_Polimorfismo.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
+      - [GOF-Decorator](PadroesDeProjeto/GoF-Decorator.md)
+      - [GOF-Adapter](PadroesDeProjeto/gof-adapter.md)
+      - [GOF-Template-Method](PadroesDeProjeto/gof-template-method.md)
     - [3.3. Módulo Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
+
     - [3.4. MVC](PadroesDeProjeto/MVC.md)
+
+      - [MVC](PadroesDeProjeto/MVC.md)
+    - [3.4. Iniciativas Extras]()
+      - [Paternite](PadroesDeProjeto/Iniciativas-Extras/Paternite.md)
+      - [Padrões de Implementação](PadroesDeProjeto/Iniciativas-Extras/Padrões-de-Implementação.md)
+
    
   - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
