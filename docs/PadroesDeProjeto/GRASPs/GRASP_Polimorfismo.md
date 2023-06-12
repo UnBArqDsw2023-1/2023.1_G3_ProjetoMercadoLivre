@@ -18,10 +18,16 @@ O padrão polimorfismo trabalha na organização das classes utilizando operaç�
 - Facilidade em estender o projeto com novas funcionalidades;
 
 ### Implementação no Mercado Livre
-O GRASP polimorfismo foi utilizado na herança do Processo em UsuarioAnunciante e UsuarioAdotante, a especialidade escolhida, além das outras também existentea, possuindo funcionalidades diferentes no projeto. Segue nossa aba do diagrama de classe [Diagrama de Classe](Modelagem/UMLEstaticos/DiagramaDeClasses.md) e abaixo o diagrama mais revisado até a data da útima atualização.
 
-![Diagrama de Classes](docs/Assets/DiagramaDeClassesV2.png)
+#### Diagramação UML
 
+O GRASP polimorfismo foi utilizado na herança do processo de devolução e estorno, com suas especialidades escolhidas, possuindo funcionalidades diferentes no projeto. Segue nossa diagramação UML para representação da implementação do padrão de projeto polimorfismo. A diagramação foi abstraída do [diagrama de classe](link para diagrama) (Modelagem/UMLEstaticos/DiagramaDeClasses.md)
+
+![Diagramação UML](link para imagem da diagramação específica de devolução e estorno)
+
+#### Código
+
+O GRASP polimorfismo foi utilizado na herança do processo de devolução e estorno. Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso de estorno, foi utilizado uma classe pai OperacaoEstorno e classes filhas para cada motivo de estorno. Já para o caso de devolução, foi utilizado uma classe pai OperacaoDevolucao e classes filhas para cada motivo de devolução
 
 ### Referências
 
@@ -40,4 +46,5 @@ O GRASP polimorfismo foi utilizado na herança do Processo em UsuarioAnunciante 
 
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 05/06/2023 |  1.0.0 |  Configuração inicial do artefato de Padrões GRASPs | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 05/06/2023 | 1.0.0 |  Configuração inicial do artefato de Padrões GRASPs | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 12/06/2023 | 1.0.1 | Configuração inicial das imagens de modelagem e código | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Erick Levy](https://github.com/Ericklevy) | 
