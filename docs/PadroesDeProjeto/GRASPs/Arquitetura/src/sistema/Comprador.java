@@ -1,6 +1,7 @@
 package sistema;
 
 import java.util.List;
+import java.util.ArrayList;
 
 
 public class Comprador{
@@ -11,6 +12,7 @@ public class Comprador{
     public Comprador(int idComprador, Nivel classeComprador) {
         this.idComprador = idComprador;
         this.classeComprador = classeComprador;
+        this.historicoCompras = new ArrayList<>();
     }
 
     public int getIdComprador() {
@@ -45,4 +47,3 @@ public class Comprador{
         historicoCompras.add(pedido);
     }
 }
-
