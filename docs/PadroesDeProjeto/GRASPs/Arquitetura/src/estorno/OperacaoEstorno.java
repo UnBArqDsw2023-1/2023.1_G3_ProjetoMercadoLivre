@@ -1,9 +1,8 @@
 package estorno;
 
 import sistema.Pedido;
-
-// Padrão de projeto: Polimorfismo 
+import sistema.Produto;
 
 public abstract class OperacaoEstorno {
-    public abstract String realizarEstorno(Pedido pedido);
+    public abstract String realizarEstorno(Pedido pedido, Produto produto);
 }
