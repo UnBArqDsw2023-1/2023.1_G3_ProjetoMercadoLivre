@@ -10,15 +10,14 @@
 
 <p align="justify">
     A metodologia utilizada para aplicar o padrão Template Method é a seguinte: uma classe base abstrata define o esqueleto do algoritmo e declara os métodos abstratos que as subclasses devem implementar. Esses métodos representam os passos variáveis do algoritmo. As subclasses, por sua vez, herdam da classe base abstrata e implementam esses métodos abstratos de acordo com suas necessidades específicas.
-    
-    Padrão Template Method:
-
-    Classe Base Abstrata - Neste contexto, a classe base abstrata representa o Template Method. Ela define o esqueleto do algoritmo, incluindo a ordem dos passos, mas deixa os detalhes de implementação de certos passos para as subclasses. A classe base abstrata declara métodos abstratos que as subclasses devem implementar.
-
-    Subclasses Concretas - São as subclasses que herdam da classe base abstrata e fornecem implementações específicas para os métodos abstratos. Elas personalizam ou estendem certos passos do algoritmo definido na classe base, mantendo a estrutura geral intacta.
 
 </p>
+Padrão Template Method:
 
+Classe Base Abstrata - Neste contexto, a classe base abstrata representa o Template Method. Ela define o esqueleto do algoritmo, incluindo a ordem dos passos, mas deixa os detalhes de implementação de certos passos para as subclasses. A classe base abstrata declara métodos abstratos que as subclasses devem implementar.
+
+Subclasses Concretas - São as subclasses que herdam da classe base abstrata e fornecem implementações específicas para os métodos abstratos. Elas personalizam ou estendem certos passos do algoritmo definido na classe base, mantendo a estrutura geral intacta.
+    
 ## 3. Participantes
 - [Abdul Hannan](https://github.com/hannanhunny01)
 
