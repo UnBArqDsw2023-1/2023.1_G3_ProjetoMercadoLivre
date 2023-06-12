@@ -69,6 +69,10 @@ Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso
     <br><small>Autores: Gabriel Roger, Vinícius Assumpção e João Pedro</small>
 </figcaption>
 
+#### 2.2.3 Vídeo com explicação e execução do código 
+
+O link para o vídeo que contem a explicação e a execução do código pode ser encontrado [aqui](https://youtu.be/xDxqYd4DZFQ).
+
 ## 3. Referências
 
 > Serrano, Milene. 2020. Aula GRASPs Parte I Conteúdo Complementar.  https://aprender3.unb.br/pluginfile.php/2277128/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GRASP_A%20-%20Profa.%20Milene%20-%20Complementar.pdf. Acesso em: 05 de junho de 2023.
@@ -90,3 +94,4 @@ Segue abaixo exemplos da implementação de polimorfismo em código. Para o caso
 | 12/06/2023 | 1.0.1 | Configuração inicial das imagens de modelagem e código | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Erick Levy](https://github.com/Ericklevy) |
 | 12/06/2023 | 1.0.2 | Adição de imagens e correção de hyperlink | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Erick Levy](https://github.com/Ericklevy) |
 | 12/06/2023 | 1.0.3 | Adição de hyperlink para o código | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 12/06/2023 | 1.0.4 | Adição do link para o vídeo de apresentação | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
