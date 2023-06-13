@@ -37,8 +37,18 @@ Diante do exposto, a partir da modelagem conceitual [diagrama geral de classes](
     <p>Figura 1: Diagrama de pacotes MVC</p>
 </figcaption>
 
+## 4. Exemplo de código
 
-## 4. Conclusão
+### 4.1 Exemplo de Model
+![model](../Assets/mo.png)
+
+### 4.2 Controller
+![controller](../Assets/co.png)
+
+### 4.3 View 
+![view](../Assets/vi.png)
+
+## 5. Conclusão
 
 <p align="justify">
 
@@ -57,3 +67,4 @@ No geral, o padrão MVC promove a modularidade, a reutilização de código, a l
 | ---- | ------ | --------- | ----- | ------- |
 | 09/06/2023 | 1.0 | Criação do documento | [Gustavo Martins](https://github.com/gustavomartins-github) | [Erick Levy](https://github.com/Ericklevy) |
 | 11/06/2023 | 1.1 | Correção do documento | [Rodolfo Neves](https://github.com/roddas) | [Lucas Monteiro](https://github.com/nickby2) |
+| 12/06/2023 | 1.2 | Adição do exemplo MVC | [Rodolfo Neves](https://github.com/roddas) | [Lucas Monteiro](https://github.com/nickby2) |
