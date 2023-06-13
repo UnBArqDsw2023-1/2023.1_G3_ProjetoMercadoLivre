@@ -31,7 +31,7 @@ Decorator Design:
 ![Legenda](../Assets/gof/gofreclamacao.jpg)
 
 ## Implementação de Código
-
+A implementaçao do codigo do padrao GOF completa pode ser encontrada [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/tree/main/docs/PadroesDeProjeto/CodigoGOF/Arquitetura/src)
 
 `Reclamacao.java`
 
@@ -129,16 +129,17 @@ No contexto do exemplo fornecido, a classe `Reclamacao` é o Componente, pois de
 
 
 
+## 5. Video
+<iframe src="https://unbbr.sharepoint.com/sites/GrupoF.Experimental1/_layouts/15/embed.aspx?UniqueId=263e098e-bb28-48b1-9caf-c645b8f21847&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Meeting in _General_-20230612_232217-Meeting Recording.mp4"></iframe>
 
-
-## 5. Conclusão
+## 6. Conclusão
 
 <p align="justify">
     O padrão Decorator oferece flexibilidade ao adicionar funcionalidades extras a um objeto em tempo de execução, sem modificar o código existente. Ele permite estender o comportamento de um objeto sem criar várias subclasses. A principal vantagem é a capacidade de adicionar dinamicamente comportamentos específicos, combinando diferentes decoradores conforme necessário. Isso evita subclasses complexas e melhora a modularidade e a reutilização de código. O Decorator facilita a manutenção e a evolução do software, evitando problemas da herança múltipla. Em resumo, o Decorator permite estender as capacidades de um objeto de forma flexível, agregando comportamentos adicionais em tempo de execução. Isso resulta em um design modular, flexível e fácil de manter.
 
 </p>
 
-## 6. Referências
+## 7. Referências
 
 > Padrão de Projeto Decorator em Java. Disponível em: <https://www.devmedia.com.br/padrao-de-projeto-decorator-em-java/26238>. Acesso em: 09 junho. 2023.
 
@@ -146,7 +147,7 @@ No contexto do exemplo fornecido, a classe `Reclamacao` é o Componente, pois de
 
 > Decorator. Disponível em: <https://refactoring.guru/pt-br/design-patterns/decorator#:~:text=O%20Decorator%20%C3%A9%20um%20padr%C3%A3o,objetos%20que%20cont%C3%A9m%20os%20comportamentos.> Acesso em: 09 junho. 2023.
 
-## 7. Histórico de versionamento
+## 8. Histórico de versionamento
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
