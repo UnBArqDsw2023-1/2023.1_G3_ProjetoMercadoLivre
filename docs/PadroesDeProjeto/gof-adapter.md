@@ -23,7 +23,7 @@ Participantes
 ![Legenda](../Assets/gof/gofcomprador.jpg)
 
 ## Implementação de Código
-
+A implementaçao do codigo do padrao GOF completa pode ser encontrada [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/tree/main/docs/PadroesDeProjeto/CodigoGOF/Arquitetura/src)
 ``` ts
 
 
@@ -89,6 +89,8 @@ class CompradorAdapter implements Cliente {
     }
 }
 ```
+## Video
+<iframe src="https://unbbr.sharepoint.com/sites/GrupoF.Experimental1/_layouts/15/embed.aspx?UniqueId=263e098e-bb28-48b1-9caf-c645b8f21847&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Meeting in _General_-20230612_232217-Meeting Recording.mp4"></iframe>
 
 ## Referências
 
