@@ -1,0 +1,9 @@
+package recursos;
+
+public enum Status {
+	ESTORNO_EMITIDO,
+	ESTORNO_NEGADO,
+	REEMBOLSO_PARCIAL,
+	PRODUTO_SUBSTITUICAO,
+	NENHUMA_TOMADA
+}
