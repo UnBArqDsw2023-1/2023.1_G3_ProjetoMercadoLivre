@@ -31,7 +31,7 @@ Decorator Design:
 ![Legenda](../Assets/gof/gofreclamacao.jpg)
 
 ## Implementação de Código
-
+A implementação de todo o codigo do padrao GOF pode ser encontrada [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/tree/main/docs/PadroesDeProjeto/CodigoGOF/Arquitetura/src)
 
 `Reclamacao.java`
 
