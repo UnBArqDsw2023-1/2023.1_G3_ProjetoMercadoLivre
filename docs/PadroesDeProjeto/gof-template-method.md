@@ -31,7 +31,7 @@ Subclasses Concretas - São as subclasses que herdam da classe base abstrata e f
 ![Legenda](../Assets/gof/gofpedido.jpg)
 
 ## 5. Implementação de Código
-
+A implementaçao do codigo do padrao GOF completa pode ser encontrada [aqui](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/tree/main/docs/PadroesDeProjeto/CodigoGOF/Arquitetura/src)
 
 `PedidoComum.java`
 
@@ -140,21 +140,22 @@ No código, a classe abstrata Pedido possui um método fazerReclamacao que utili
 
 Dessa forma, a estrutura do algoritmo para fazer uma reclamação é definida na classe abstrata Pedido, mas a implementação específica desse algoritmo é delegada às subclasses. Cada tipo de pedido (como PedidoComum) pode fornecer sua própria implementação do método criarReclamacao, permitindo que cada tipo de pedido crie uma reclamação adequada para si.
 
+## 6. Video
+<iframe src="https://unbbr.sharepoint.com/sites/GrupoF.Experimental1/_layouts/15/embed.aspx?UniqueId=263e098e-bb28-48b1-9caf-c645b8f21847&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Meeting in _General_-20230612_232217-Meeting Recording.mp4"></iframe>
 
-
-## 6. Conclusão
+## 7. Conclusão
 
 <p align="justify">
     O padrão Template Method permite definir um esqueleto de algoritmo em uma classe base, com partes variáveis implementadas por suas subclasses. Isso permite que o comportamento geral seja compartilhado entre várias classes, enquanto partes específicas podem ser personalizadas. O padrão é útil quando se deseja evitar duplicação de código em classes semelhantes e quando se quer garantir que a estrutura do algoritmo permaneça consistente em todas as subclasses.
 
 </p>
 
-## 7. Referências
+## 8. Referências
 
 > Refactoring Guru - Template Method. Disponível em: <https://refactoring.guru/pt-br/design-patterns/template-method>. Acesso em: 11 junho. 2023.
 
 
-## 8. Histórico de versionamento
+## 9. Histórico de versionamento
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
