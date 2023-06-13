@@ -27,7 +27,11 @@ Subclasses Concretas - São as subclasses que herdam da classe base abstrata e f
 
 
 
-## 4. Exemplo de Codigo
+## 4. Modelagem Pedidos
+![Legenda](../Assets/gof/gofpedido.jpg)
+
+## 5. Implementação de Código
+
 
 `PedidoComum.java`
 
@@ -138,20 +142,21 @@ Dessa forma, a estrutura do algoritmo para fazer uma reclamação é definida na
 
 
 
-## 5. Conclusão
+## 6. Conclusão
 
 <p align="justify">
     O padrão Template Method permite definir um esqueleto de algoritmo em uma classe base, com partes variáveis implementadas por suas subclasses. Isso permite que o comportamento geral seja compartilhado entre várias classes, enquanto partes específicas podem ser personalizadas. O padrão é útil quando se deseja evitar duplicação de código em classes semelhantes e quando se quer garantir que a estrutura do algoritmo permaneça consistente em todas as subclasses.
 
 </p>
 
-## 6. Referências
+## 7. Referências
 
 > Refactoring Guru - Template Method. Disponível em: <https://refactoring.guru/pt-br/design-patterns/template-method>. Acesso em: 11 junho. 2023.
 
 
-## 7. Histórico de versionamento
+## 8. Histórico de versionamento
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
 |11/06/2023|1.0|Criação do Documento de gof template method| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
+|12/06/2023|1.1|Adicao do Diagrama uml| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
