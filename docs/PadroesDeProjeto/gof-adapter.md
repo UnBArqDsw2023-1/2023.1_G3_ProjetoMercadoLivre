@@ -19,7 +19,10 @@ Participantes
   |Erick Levy Barbosa dos Santos|
   |HEITOR MARQUES SIMÕES BARBOSA|
 
-## Examplo
+## Modelagem Compras
+![Legenda](../Assets/gof/gofcomprador.jpg)
+
+## Implementação de Código
 
 ``` ts
 
@@ -96,6 +99,7 @@ Referência: Adapter Pattern GoFs. Disponível em: https://refactoring.guru/desi
 
 ## Histórico de versões
 
-| Data       | Versão | Descrição            | Autor(a)                                                    | Revisor(a)                                       |
-| ---------- | ------ | -------------------- | ----------------------------------------------------------- | ------------------------------------------------ |
-| 11/06/2023 | 1.0    | Criação do documento |Abdul Hannan, Erick Levy ,HEITOR MARQUES  |  |
+|Data | Versão | Descrição | Autor(es)|Revisores|
+| -- | -- | -- | -- |--|
+|11/06/2023|1.0|Criação do Documento de Gof Adapter| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
+|12/06/2023|1.1|Adicao do Diagrama uml| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 

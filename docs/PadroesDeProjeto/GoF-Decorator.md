@@ -27,7 +27,11 @@ Decorator Design:
 
 
 
-## 4. Exemplo de Codigo
+## 4. Modelagem Reclamação
+![Legenda](../Assets/gof/gofreclamacao.jpg)
+
+## Implementação de Código
+
 
 `Reclamacao.java`
 
@@ -147,4 +151,4 @@ No contexto do exemplo fornecido, a classe `Reclamacao` é o Componente, pois de
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
 |11/06/2023|1.0|Criação do Documento de Gof Decorator| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
-
+|12/06/2023|1.1|Adicao do Diagrama uml| [Abdul Hannan](https://github.com/hannanhunny01) <br>   [Erick Levy](https://github.com/Ericklevy) e [Heitor Marques](https://github.com/heitormsb)| 
