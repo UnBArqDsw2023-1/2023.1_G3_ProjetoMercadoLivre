@@ -46,7 +46,7 @@ Diante do exposto, a partir da modelagem conceitual [diagrama geral de classes](
 ![controller](../Assets/co.png)
 
 ### 4.3 View 
-![view](../Assets/view.png)
+![view](../Assets/vi.png)
 
 ## 5. Conclusão
 
