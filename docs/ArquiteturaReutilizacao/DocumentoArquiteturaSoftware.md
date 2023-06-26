@@ -43,13 +43,13 @@ Como modelo arquitetural, então, foi adotado, "automaticamente" o MTV (Model Te
 <center><iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLEstaticos/diagramaPacotes"></iframe></center>
 
 ### 4.2. Diagrama de Classes
-<center><iframe height="600" width="700" src=" https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLEstaticos/DiagramaDeClasses "></iframe></center>
+<center><iframe height="600" width="700" src=" https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLEstaticos/DiagramaDeClasses"></iframe></center>
 
 ### 4.3. Diagrama de Comunicação
 <center><iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLDinamicos/diagramaDeComunicacao"></iframe></center>
 
 ### 4.4. Diagrama de Estados
-<center><iframe height="600" width="700" src=" https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLDinamicos/DiagramadeEstados"></iframe></center>
+<center><iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/Modelagem/UMLDinamicos/DiagramadeEstados"></iframe></center>
 
 
 ## 5. Visão de Implementação
