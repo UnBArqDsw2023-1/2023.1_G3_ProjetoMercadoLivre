@@ -5,7 +5,7 @@
 O Diagrama de Sequência modela as interações entre objetos em um caso de uso. Ilustra como diferentes partes do sistema interagem entre si para realizar determinada função, além da ordem que as interações ocorrem quando um caso de uso é executado.
 
 ## Metodologia 
-A partir de reuniões realizadas entre a equipe do projeto foram identificadas as interações entre os objetos do sistema. Após isto, o diagrama de sequência foi elaborado, com o intuito de mapear a jornada do usuário ao utilizar o produto que será desenvolvido, assim pudemos obter uma visão geral de alto nível das funcionalidades específicas do produto.
+A partir de reuniões realizadas entre a equipe do projeto e os traços alinhados com o [diagrama de classes](../../Modelagem/UMLEstaticos/DiagramaDeClasses.md) foram identificadas as interações entre os objetos do sistema. Após isto, o diagrama de sequência foi elaborado, com o intuito de mapear a jornada do usuário ao utilizar o produto que será desenvolvido, assim pudemos obter uma visão geral de alto nível das funcionalidades específicas do produto.
 
 ## Notações
 
@@ -50,6 +50,15 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
 </figcaption>
 </br>
 
+![Diagrama de Sequência cliente](../../Assets/SequenciaV2Comp.png)
+
+<figcaption align='center'>
+  <b>Figura 1: Diagrama de sequência do comprador, versão 2</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
+
 # Diagrama de sequência do vendedor
 
 ![Diagrama de Sequência vendedor](../../Assets/diagramasAgeisImg/DiagramaSeqVendedor1.png)
@@ -60,6 +69,16 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
   <small>Fonte: Grupo 3</small>
 </figcaption>
 </br>
+
+![Diagrama de Sequência vendedor](../../Assets/SequenciaV2Vend.png)
+
+<figcaption align='center'>
+  <b>Figura 2: Diagrama de sequência do vendedor, versão 2</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
+
 
 ## Referências
 
@@ -75,3 +94,4 @@ Tutorial do Diagrama de Sequência: Guia completo com exemplos. Disponível em: 
 | -----|--------|----------|------|-------- |
 | 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades e adição da primeira versão dos diagramas | [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy)  |
 | 12/05/2023 | 1.0.1 | Inclusão de fonte e legenda nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07) ,  [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius Assumpção](https://github.com/viniman27) | [Erick Levy](https://github.com/Ericklevy), [Rodolfo Neves](https://github.com/roddas), [Kathlyn Lara](https://github.com/klmurussi), [Gian medeiros](https://github.com/GianMedeiros), [Lucas Rodrigues](https://github.com/nickby2)|
+| 28/06/2023 | 1.0.2 | Adição de versionamento | [Vinicius Assumpção](https://github.com/viniman27) |  [Gabriel Roger](https://github.com/GabrielRoger07) e  [João Pedro Vaz](https://github.com/JoaoPedro0803)  |
