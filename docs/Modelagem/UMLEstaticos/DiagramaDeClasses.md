@@ -10,11 +10,18 @@ Nesse diagrama, as classes são representadas por retângulos, que contêm o nom
  Conforme propunha este artefato, a imagem 1 a seguir expressa o resultado do desenvolvimento do diagrama de classes, contudo de forma compactada para facilitar a visualização. Por outro lado, a versão expandida pode ser encontrada [clicando aqui](https://lucid.app/lucidchart/a53dd78b-4cc5-443a-9448-48a2df2695d2/edit?viewport_loc=-284%2C-48%2C4440%2C1916%2C.7.W52qyyi8y&invitationId=inv_70e52ed6-fa8c-457d-ac8d-1d17809f36ae), a fim de se obter mais detalhes. Tal contexto deve-se ao "porte" do artefato, o qual possui um tamanho relativamente grande, conforme o porte do sistema Mercado Livre.
 
 ![Diagrama de Classes](../../Assets/DiagramaDeClasses.png)
-
 <figcaption align='center'>
     <b>Figura 1 : diagrama de classes do sistema Mercado Livre</b>
     <br><small>Fonte: Elaboração Própria</small>
     <br><small>Autor: Kathlyn Murussi</small>
+</figcaption>
+
+
+![Diagrama de classes2](../../Assets/DiagramadeClassesV2.png)
+<figcaption align='center'>
+    <b>Figura 2 : diagrama de classes do sistema Mercado Livre versão 2 </b>
+    <br><small>Fonte: Elaboração Própria</small>
+    <br><small>Autor: Gustavo Martins</small>
 </figcaption>
 
 ## 4. Conclusão
