@@ -4,6 +4,9 @@
 
 O Diagrama de Sequência modela as interações entre objetos em um caso de uso. Ilustra como diferentes partes do sistema interagem entre si para realizar determinada função, além da ordem que as interações ocorrem quando um caso de uso é executado.
 
+## Metodologia 
+A partir de reuniões realizadas entre a equipe do projeto foram identificadas as interações entre os objetos do sistema. Após isto, o diagrama de sequência foi elaborado, com o intuito de mapear a jornada do usuário ao utilizar o produto que será desenvolvido, assim pudemos obter uma visão geral de alto nível das funcionalidades específicas do produto.
+
 ## Notações
 
 É estruturado de forma que representa uma linha de tempo que começa no topo e desce gradualmente para marcar uma sequência de interações. Cada objeto tem uma coluna e as mensagens são trocadas por setas.
@@ -41,7 +44,7 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
 ![Diagrama de Sequência cliente](../../Assets/diagramasAgeisImg/DiagramaSeqComprador1.png)
 
 <figcaption align='center'>
-  <b>Figura 1: Diagrama de sequência do comprador</b>
+  <b>Figura 1: Diagrama de sequência do comprador, versão 1</b>
   </br>
   <small>Fonte: Grupo 3</small>
 </figcaption>
@@ -52,7 +55,7 @@ Pode fluir em qualquer direção e pode-se descrever a mensagem que está passan
 ![Diagrama de Sequência vendedor](../../Assets/diagramasAgeisImg/DiagramaSeqVendedor1.png)
 
 <figcaption align='center'>
-  <b>Figura 2: Diagrama de sequência do vendedor</b>
+  <b>Figura 2: Diagrama de sequência do vendedor, versão 1</b>
   </br>
   <small>Fonte: Grupo 3</small>
 </figcaption>
