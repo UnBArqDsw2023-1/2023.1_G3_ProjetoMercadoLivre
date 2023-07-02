@@ -7,7 +7,7 @@ O Diagrama de Classes é uma ferramenta visual utilizada na modelagem de sistema
 Nesse diagrama, as classes são representadas por retângulos, que contêm o nome da classe no topo e, internamente, os atributos e métodos associados. Os relacionamentos entre as classes são representados por linhas, que podem indicar associações, agregações, composições, heranças, entre outros. Esses relacionamentos são fundamentais para entender a inter-relação entre as classes, assim como a interação dessas classes com o sistema em si.
 
 ## 3. Diagrama de Classes
- Conforme propunha este artefato, a imagem 1 a seguir expressa o resultado do desenvolvimento do diagrama de classes, contudo de forma compactada para facilitar a visualização. Por outro lado, a versão expandida pode ser encontrada [clicando aqui](https://lucid.app/lucidchart/a53dd78b-4cc5-443a-9448-48a2df2695d2/edit?viewport_loc=-284%2C-48%2C4440%2C1916%2C.7.W52qyyi8y&invitationId=inv_70e52ed6-fa8c-457d-ac8d-1d17809f36ae), a fim de se obter mais detalhes. Tal contexto deve-se ao "porte" do artefato, o qual possui um tamanho relativamente grande, conforme o porte do sistema Mercado Livre.
+ Conforme propunha este artefato, a figura 1 a seguir expressa o resultado do desenvolvimento do diagrama de classes, contudo de forma compactada para facilitar a visualização. Por outro lado, a versão expandida pode ser encontrada [clicando aqui](https://lucid.app/lucidchart/a53dd78b-4cc5-443a-9448-48a2df2695d2/edit?viewport_loc=-284%2C-48%2C4440%2C1916%2C.7.W52qyyi8y&invitationId=inv_70e52ed6-fa8c-457d-ac8d-1d17809f36ae), a fim de se obter mais detalhes. Tal contexto deve-se ao "porte" do artefato, o qual possui um tamanho relativamente grande, conforme o porte do sistema Mercado Livre. Ao decorrer do tempo foram adicionados duas novas versões de aprimoramento do Diagrama de Classes, sendo estas representadas nas figura 2 e 3 apresentadas abaixo.
 
 ![Diagrama de Classes](../../Assets/DiagramaDeClasses.png)
 <figcaption align='center'>
@@ -24,6 +24,14 @@ Nesse diagrama, as classes são representadas por retângulos, que contêm o nom
     <br><small>Autor: Gustavo Martins</small>
 </figcaption>
 
+![Diagrama de classes2](../../Assets/DiagramaDeClassesV3.png)
+<figcaption align='center'>
+    <b>Figura 3 : diagrama de classes do sistema Mercado Livre versão 3 </b>
+    <br><small>Fonte: Elaboração Própria</small>
+    <br><small>Autor: Gian Medeiros Rosa</small>
+</figcaption>
+
+
 ## 4. Conclusão
   Por meio do desenvolvimento do artefato Diagrama de Classes, assim como o resultado final, o projeto evolui no que tange ao conhecimento sobre os elementos mais importantes do sistema Mercado Livre. Sendo assim, tal artefato, além de enrriquecer o projeto, poderá servir de base para outros artefatos futuros.
 
@@ -39,4 +47,5 @@ ALVES, Nelio. Programação Orientada a Objetos com Java: Enumerações, Composi
 | 1.0.0 | 14/05/2023 | 15/05/2023 | Criação do artefato | [Kathlyn Murussi](https://github.com/klmurussi) | [Lucas Rodrigues](https://github.com/nickby2) e [Vinícius Assumpção](https://github.com/viniman27) |
 |1.0.1 | 15/05/2023 | 15/05/2023 | Descrição melhor do artefato | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) | [Erick Levy](https://github.com/Ericklevy), [Gian Medeiros](https://github.com/GianMedeiros), [Heitor Marques](https://github.com/heitormsb) e [Vinícius Assumpção](https://github.com/viniman27) |
 | 1.0.2 | 14/05/2023 | 28/06/2023 | Adição de versionamento | [Vinícius Assumpção](https://github.com/viniman27) |[Gabriel Roger](https://github.com/GabrielRoger07) |
+| 2.0.0 | 02/07/2023 | 02/07/2023 | restruturação 3 do diagrama de classes | [Gian Medeiros](https://github.com/GianMedeiros) | |
 
