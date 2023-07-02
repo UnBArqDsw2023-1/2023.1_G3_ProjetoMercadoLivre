@@ -36,10 +36,20 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ### Abertura do processo de reclamação pelo cliente
 
-![Diagrama de Atividades Comprador](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesComprador.png)
+![Diagrama de Atividades Comprador Versão 1](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesComprador.png)
 
 <figcaption align='center'>
-  <b>Figura 1: Diagrama de atividades de abertura do processo de reclamação pelo cliente</b>
+  <b>Figura 1: Diagrama de atividades de abertura do processo de reclamação pelo cliente (versão 1)</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
+</br>
+
+![Diagrama de Atividades Comprador Versão 2](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesCompradorV2.png)
+
+<figcaption align='center'>
+  <b>Figura 2: Diagrama de atividades de abertura do processo de reclamação pelo cliente (versão 2)</b>
   </br>
   <small>Fonte: Grupo 3</small>
 </figcaption>
@@ -47,10 +57,20 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
 
 ### Processamento da comunicação pelo vendedor
 
-![Diagrama de Atividades Vendedor](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedor.png)
+![Diagrama de Atividades Vendedor Versão 1](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedor.png)
 
 <figcaption align='center'>
-  <b>Figura 2: Diagrama de atividades de processamento da comunicação pelo vendedor</b>
+  <b>Figura 3: Diagrama de atividades de processamento da comunicação pelo vendedor (versão 1)</b>
+  </br>
+  <small>Fonte: Grupo 3</small>
+</figcaption>
+</br>
+</br>
+
+![Diagrama de Atividades Vendedor Versão 2](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedorV2.png)
+
+<figcaption align='center'>
+  <b>Figura 4: Diagrama de atividades de processamento da comunicação pelo vendedor (versão 2)</b>
   </br>
   <small>Fonte: Grupo 3</small>
 </figcaption>
@@ -70,4 +90,5 @@ Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
 | 09/05/2023 | 1.0.0 | Elaboração do artefato de Diagrama de Atividades | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
 | 11/05/2023 | 1.0.1 | Elaboração dos diagramas de atividades | [Gabriel Roger](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
-| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy), [Rodolfo Neves](https://github.com/roddas, [Kathlyn Lara](https://github.com/klmurussi), [Gian medeiros](https://github.com/GianMedeiros), [Lucas Rodrigues](https://github.com/nickby2) |
+| 12/05/2023 | 1.0.2 | Inclusão de legenda e fonte nas imagens | [Gabriel Roger](https://github.com/GabrielRoger07), [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 02/07/2023 | 1.0.3 | Adicionando versão 2 dos diagramas | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
