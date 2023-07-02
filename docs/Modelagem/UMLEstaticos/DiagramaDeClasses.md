@@ -47,5 +47,5 @@ ALVES, Nelio. Programação Orientada a Objetos com Java: Enumerações, Composi
 | 1.0.0 | 14/05/2023 | 15/05/2023 | Criação do artefato | [Kathlyn Murussi](https://github.com/klmurussi) | [Lucas Rodrigues](https://github.com/nickby2) e [Vinícius Assumpção](https://github.com/viniman27) |
 |1.0.1 | 15/05/2023 | 15/05/2023 | Descrição melhor do artefato | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) | [Erick Levy](https://github.com/Ericklevy), [Gian Medeiros](https://github.com/GianMedeiros), [Heitor Marques](https://github.com/heitormsb) e [Vinícius Assumpção](https://github.com/viniman27) |
 | 1.0.2 | 14/05/2023 | 28/06/2023 | Adição de versionamento | [Vinícius Assumpção](https://github.com/viniman27) |[Gabriel Roger](https://github.com/GabrielRoger07) |
-| 2.0.0 | 02/07/2023 | 02/07/2023 | restruturação 3 do diagrama de classes | [Gian Medeiros](https://github.com/GianMedeiros) | |
+| 2.0.0 | 02/07/2023 | 02/07/2023 | restruturação 3 do diagrama de classes | [Gian Medeiros](https://github.com/GianMedeiros) | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) |
 
