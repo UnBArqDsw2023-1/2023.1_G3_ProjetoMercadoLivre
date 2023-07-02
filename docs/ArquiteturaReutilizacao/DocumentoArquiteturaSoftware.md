@@ -8,7 +8,7 @@ Este documento tem como objetivo explicar os aspectos gerais da arquitetura do p
 
 ### 1.2. Escopo
  
-Este documento tem como objetivo apresentar uma visão geral da arquitetura do sistema desenvolvido para o projeto Mercado Livre. Ele incluirá informações sobre os padrões de software utilizados e tem como objetivo descrever tecnicamente a solução adotada, tornando o projeto manutenível e apresentando os padrões a serem seguidos ao longo do seu desenvolvimento.
+Este documento tem como objetivo apresentar uma visão geral da arquitetura do sistema desenvolvido para o projeto Mercado Livre. Ele incluirá informações sobre os padrões de projeto utilizados e tem como objetivo descrever tecnicamente a solução adotada, tornando o projeto manutenível e apresentando os padrões a serem seguidos ao longo do seu desenvolvimento.
 
 ## 2. Representação Arquitetural
 
@@ -16,7 +16,7 @@ Este documento tem como objetivo apresentar uma visão geral da arquitetura do s
 
 Para o back-end, a linguagem escolhida para o desenvolvimento foi **Java**. A principal razão para essa escolha foi a familiaridade com a linguagem pela maioria dos integrantes do grupo, além do consenso geral de que o desenvolvimento de uma aplicação web poderia ser beneficiado pelo uso de certas ferramentas disponíveis pela linguagem.
 
-Como modelo arquitetural, então, foi adotado o MVC (Model-View-Controller).
+Como modelo arquitetural, então, foi adotado o [MVC](https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/PadroesDeProjeto/MVC?id=mvc-model-view-controller) (Model-View-Controller).
 
 ## 3. Metas Arquiteturais e Restrições da Arquitetura
 
@@ -31,7 +31,7 @@ Como modelo arquitetural, então, foi adotado o MVC (Model-View-Controller).
 
 | Metas	| Descrição |
 | :------: | :------: |
-| Fácil utilização | O usuário deve conseguir utilizar o app sem treinamento específico. |
+| Fácil utilização | O usuário deve conseguir utilizar o Web-App sem treinamento específico. |
 | Segurança | O Web-App deve proteger os dados dos usuários. |
 | Padronização | O Web-App deve ser intuitivo e de fácil utilização, com layouts semelhantes à aplicações de mídias sociais já estabelecidas. |
 
@@ -78,8 +78,8 @@ Como modelo arquitetural, então, foi adotado o MVC (Model-View-Controller).
 
 ### 9.2. Visão Geral
 
-O Web-App Mercado Livre é projetado com uma visão geral de simplicidade e eficiência. A arquitetura MVC (Model-View-Controller) é usada no desenvolvimento do backend, tornando o desenvolvimento mais fácil e organizado, além de melhorar a manutenibilidade do código.
-Em resumo, a visão geral do Web-App Mercado Livre é baseada na arquitetura MVC e na reutilização de código, garantindo que o Web-App seja desenvolvido de forma organizada, escalável e eficiente.
+O Web-App Mercado Livre é projetado com uma visão geral de simplicidade e eficiência. A arquitetura [MVC](https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/PadroesDeProjeto/MVC?id=mvc-model-view-controller) (Model-View-Controller) é usada no desenvolvimento do backend, tornando o desenvolvimento mais fácil e organizado, além de melhorar a manutenibilidade do código.
+Em resumo, a visão geral do Web-App Mercado Livre é baseada na arquitetura [MVC](https://unbarqdsw2023-1.github.io/2023.1_G3_ProjetoMercadoLivre/#/PadroesDeProjeto/MVC?id=mvc-model-view-controller) e na reutilização de código, garantindo que o Web-App seja desenvolvido de forma organizada, escalável e eficiente.
 
 ## 10. Histórico de Versionamento
 
@@ -88,3 +88,4 @@ Em resumo, a visão geral do Web-App Mercado Livre é baseada na arquitetura MVC
 | 26/06/2023 | 1.0.0 | Elaboração do artefato de padroes-arquiteturais | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
 | 02/07/2023 | 1.0.1 | Alteração na numeração dos tópicos e correção do histórico de versionamento | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
 | 02/07/2023 | 1.0.2 | Correções para melhoria | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 02/07/2023 | 1.0.3 | Adição de hyperlinks | [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinícius Assumpção](https://github.com/viniman27) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
