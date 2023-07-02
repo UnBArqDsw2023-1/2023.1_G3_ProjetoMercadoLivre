@@ -44,7 +44,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
   <small>Fonte: Grupo 3</small>
 </figcaption>
 </br>
-
+</br>
 
 ![Diagrama de Atividades Comprador Versão 2](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesCompradorV2.png)
 
@@ -65,7 +65,7 @@ A partir do entendimento da diagramação e de seus elementos, foram desenvolvid
   <small>Fonte: Grupo 3</small>
 </figcaption>
 </br>
-
+</br>
 
 ![Diagrama de Atividades Vendedor Versão 2](../../Assets/diagramasAgeisImg/DiagramaDeAtividadesVendedorV2.png)
 
