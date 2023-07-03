@@ -70,5 +70,5 @@
     - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/DocumentoArquiteturaSoftware.md)
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/ReutilizacaoSoftware.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/ParticipacoesArq.md)
-
+    - [4.4.Arquitetura & Reutilização de Software - Front](ArquiteturaReutilizacao/ReultilizacaoDeSoftware-Front.md)
 

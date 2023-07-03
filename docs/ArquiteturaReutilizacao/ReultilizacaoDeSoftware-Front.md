@@ -8,28 +8,111 @@ Neste documento, discutiremos a reutilização de software e como ela foi aplica
 ## Reutilização de Software no Código Desenvolvido
 No código desenvolvido, foram aplicados princípios de reutilização de software por meio da criação de componentes reutilizáveis. Esses componentes foram projetados de forma genérica e flexível, permitindo seu uso em diferentes partes do aplicativo.
 
+![Legenda](../Assets/reutifront/allcomponents.png)
+
+<figcaption align='center'>
+    <b>Figura : Componentes e telas do Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+
 Foram criados os seguintes componentes reutilizáveis:
+<br>
 
 ### Card
  Um componente que exibe informações em um formato de cartão. O componente recebe as propriedades title e content para exibir o título e o conteúdo do cartão, respectivamente. Esse componente pode ser reutilizado em várias partes do aplicativo, como na tela de Compras.
 
+ <div style="display: flex;">
+  <img src="../Assets/reutifront/card.png" alt="Image 1" style="flex: 50%; margin-right: 10px;" width="300px" height="150">
+
+  <img src="../Assets/reutifront/cardcode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+  
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface Card e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+
+<br>
+
 ### Button
  Um componente de botão que recebe as propriedades onClick, text e style. Esse componente pode ser usado para criar botões interativos em diferentes partes do aplicativo, como na tela de Reclamação, Estorno e Devolução.
+ <div style="display: flex;">
+  <img src="../Assets/reutifront/button.png" alt="Image 1" style="flex: 50%; margin-right: 10px;" width="200px" height="150">
+
+  <img src="../Assets/reutifront/buttoncode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+  
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface Button e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+<br>
 
 ### Form
  Um componente de formulário flexível que recebe as propriedades fields, onSubmit e buttonText. O componente gera campos de entrada de acordo com as propriedades fornecidas em fields e executa a função onSubmit quando o formulário é submetido. Esse componente pode ser reutilizado para criar diferentes formulários em várias partes do aplicativo, como na tela de Reclamação, Estorno e Devolução.
+ <div style="display: flex;">
+  <img src="../Assets/reutifront/form.png" alt="Image 1" style="flex: 50%; margin-right: 10px;" height="200">
+  <img src="../Assets/reutifront/formcode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+  
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface Form e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+<br>
 
 ### Title
  Um componente de título simples que recebe a propriedade text para exibir um título. Esse componente pode ser usado para fornecer um título para diferentes seções do aplicativo, como nas telas de Compras, Reclamação, Estorno e Devolução.
 
+<div style="display: flex;">
+  <img src="../Assets/reutifront/title.png" alt="Image 1" style="flex: 50%; margin-right: 10px;" height="300px" >
+  <img src="../Assets/reutifront/titlecode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;" height="300px">
+  
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface Title e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+
+<br>
+
 ### ErrorAlert
 Um componente de Error PopUp simples que recebe a propriedade text para exibir um título. Esse componente pode ser usado para fornecer Erro em cenarios diferentes.
+<div style="display: flex;">
+  <img src="../Assets/reutifront/erroralertcode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;" height="500px" width="400px">
+  
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface ErrorAlert e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+<br>
 
 ### LoadingSpinner
 O componente LoadingSpinner é um componente simples que exibe um indicador de carregamento na tela. Ele fornece um indicador visual para o usuário de que um processo ou dados estão sendo carregados. O componente foi projetado para ser reutilizável e pode ser facilmente integrado em qualquer parte da aplicação onde o carregamento seja necessário.
 
+<div style="display: flex;">
+  <img src="../Assets/reutifront/loadindspinner.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+   <img src="../Assets/reutifront/loadingspinnercode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface LoadingSpinner e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
+
+<br>
+
 ### Pagination
 O componente Pagination é um componente reutilizável que fornece funcionalidade de paginação. Ele permite que os usuários naveguem por um grande conjunto de dados divididos em várias páginas. O componente recebe várias props: totalItems, itemsPerPage, currentPage e onPageChange.
+
+<div style="display: flex;">
+  <img src="../Assets/reutifront/pagination.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+   <img src="../Assets/reutifront/paginationcode.png" alt="Image 1" style="flex: 50%; margin-right: 10px;">
+</div>
+<figcaption align='center'>
+    <b>Figura : Interface Paginacao e Codigo</b>
+    <br><small>Autores: Abdul Hannan, Heitor Marques</small>
+</figcaption>
 
 
 
@@ -76,3 +159,4 @@ Através desse projeto, foi possível demonstrar como a reutilização de softwa
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
 |2/07/2023|1.0|Criação do Documento| [Abdul Hannan](https://github.com/hannanhunny01) <br>  e [Heitor Marques](https://github.com/heitormsb)|
+|3/07/2023|1.0|Adicao de imagems| [Abdul Hannan](https://github.com/hannanhunny01) <br>  e [Heitor Marques](https://github.com/heitormsb)|
