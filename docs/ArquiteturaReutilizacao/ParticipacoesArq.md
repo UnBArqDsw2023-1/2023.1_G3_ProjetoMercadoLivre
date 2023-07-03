@@ -13,7 +13,7 @@ Contribuições
 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |   |  |
 | [Lucas Rodrigues](https://github.com/nickby2) |  |   |
 | [Rodolfo Neves](https://github.com/roddas) |  |   |
-| [Vinícius Assumpção](https://github.com/viniman27) |    |  |
+| [Vinícius Assumpção](https://github.com/viniman27) |  Criação inicial da documentação de reutilização e dos padrões arquiteturais. Revisão e versionamento dos diagramas de sequência, atividades e de estados. Revisão dos códigos grasp. Revisão diagramas e scripts banco de dados  | Excelente |
 | [Lucas Rodrigues Monteiro](https://github.com/nickby2) |    |  |
 
 Data | Versão |Descrição |Autor | Revisor
