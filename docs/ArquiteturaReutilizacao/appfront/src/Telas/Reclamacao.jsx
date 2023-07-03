@@ -10,10 +10,12 @@ const Reclamacao = () => {
   const [nome, setNome] = useState('');
   const [email, setEmail] = useState('');
   const [descricao, setDescricao] = useState('');
+  const [enviado, setEnviado] = useState(false); // Estado para controlar se o formulário foi enviado com sucesso
 
   const handleFormSubmit = () => {
     // Lógica para lidar com a submissão do formulário
     console.log('Formulário de reclamação enviado');
+    setEnviado(true);
   };
 
   const handleNomeChange = (e) => {
@@ -26,6 +28,13 @@ const Reclamacao = () => {
 
   const handleDescricaoChange = (e) => {
     setDescricao(e.target.value);
+  };
+
+  const handleResetForm = () => {
+    setNome('');
+    setEmail('');
+    setDescricao('');
+    setEnviado(false);
   };
 
   const fields = [
@@ -41,7 +50,14 @@ const Reclamacao = () => {
   return (
     <div>
       <Title text="Reclamação" />
-      <Form fields={fields} onSubmit={handleFormSubmit} buttonText="Enviar reclamação" />
+      {enviado ? (
+        <div>
+          <p>Obrigado por enviar sua reclamação!</p>
+          <Button text="Enviar outra reclamação" onClick={handleResetForm} />
+        </div>
+      ) : (
+        <Form fields={fields} onSubmit={handleFormSubmit} buttonText="Enviar reclamação" />
+      )}
     </div>
   );
 };

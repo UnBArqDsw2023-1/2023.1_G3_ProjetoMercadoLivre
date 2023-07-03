@@ -5,15 +5,16 @@ import TextInput from '../Components/textInput/textinput';
 import Title from '../Components/title/title';
 import Button from '../Components/button/button';
 
-
 const Devolucao = () => {
   const [numeroPedido, setNumeroPedido] = useState('');
   const [motivoDevolucao, setMotivoDevolucao] = useState('');
   const [detalhesAdicionais, setDetalhesAdicionais] = useState('');
+  const [enviado, setEnviado] = useState(false); // Estado para controlar se o formulário foi enviado com sucesso
 
   const handleFormSubmit = () => {
     // Lógica para lidar com a submissão do formulário
     console.log('Formulário de devolução enviado');
+    setEnviado(true);
   };
 
   const handleNumeroPedidoChange = (e) => {
@@ -26,6 +27,13 @@ const Devolucao = () => {
 
   const handleDetalhesAdicionaisChange = (e) => {
     setDetalhesAdicionais(e.target.value);
+  };
+
+  const handleResetForm = () => {
+    setNumeroPedido('');
+    setMotivoDevolucao('');
+    setDetalhesAdicionais('');
+    setEnviado(false);
   };
 
   const fields = [
@@ -45,7 +53,14 @@ const Devolucao = () => {
   return (
     <div>
       <Title text="Devolução" />
-      <Form fields={fields} onSubmit={handleFormSubmit} buttonText="Solicitar devolução" />
+      {enviado ? (
+        <div>
+          <p>A devolução foi solicitada com sucesso!</p>
+          <Button text="Solicitar outra devolução" onClick={handleResetForm} />
+        </div>
+      ) : (
+        <Form fields={fields} onSubmit={handleFormSubmit} buttonText="Solicitar devolução" />
+      )}
     </div>
   );
 };
