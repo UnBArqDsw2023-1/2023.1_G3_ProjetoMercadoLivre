@@ -10,7 +10,7 @@ Contribuições
 | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |  |  |
 | [Gustavo Martins](https://github.com/gustavomartins-github) | | |
 | [Heitor Marques](https://github.com/heitormsb) |  | |
-| [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |   |  |
+| [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) | Participação na criação da documentação de reutilização e dos padrões arquiteturais. Revisão e versionamento dos diagramas de sequência, atividades e de estados. Revisão dos códigos grasp. Revisão diagramas e scripts banco de dados  | Excelente |
 | [Lucas Rodrigues](https://github.com/nickby2) |  |   |
 | [Rodolfo Neves](https://github.com/roddas) |  |   |
 | [Vinícius Assumpção](https://github.com/viniman27) |  Criação inicial da documentação de reutilização e dos padrões arquiteturais. Revisão e versionamento dos diagramas de sequência, atividades e de estados. Revisão dos códigos grasp. Revisão diagramas e scripts banco de dados  | Excelente |
