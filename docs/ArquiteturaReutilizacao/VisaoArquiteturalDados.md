@@ -17,24 +17,41 @@
 <h5 align='justify'> O Modelo Entidade Relacionamento consiste em um modelo conceitual utilizado na Engenharia de Software para descrever os objetos (entidades) envolvidos em um domínio de negócios. Isso é feito a partir de suas características (atributos) e como elas se relacionam entre si (relacionamentos). Sendo assim, em geral, este modelo representa de forma abstrata a estrutura que possuirá o banco de dados da aplicação. Por tanto, esta técnica de modelagem, evidenciada na imagem 1 logo a baixo, representa o primeiro nível de abstração, entre os artefatos de visão arquitetural de dados, a ser trabalhado neste projeto. </h5>
 <br> </br>
 
-(IMAGEM 1)
-<h6 align='center'> <b>Imagem 1:</b> Modelo Entidade Relacionamento <br> Fonte: autoria própria </h6>
+<div align="center">
+
+![Modelo Entidade Relacionamento](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/assets/72039007/eff0733f-4c4f-431a-916f-d32b1ad9242a)
+
+</div>
+
+<h6 align='center'> Imagem 1: Modelo Entidade Relacionamento <br> Fonte: autoria própria <br> Autor: Gustavo Martins Ribeiro </h6>
+
 <br> </br>
 
 ### DIAGRAMA ENTIDADE RELACIONAMENO (DER ou Diagrama ER)
 <h5 align='justify'> Enquanto o MER é um modelo conceitual, o DER é a sua representação gráfica e principal ferramenta. Além disso, este diagrama facilita a comunicação entre os integrantes da equipe, pois oferece uma linguagem comum utilizada tanto pelo analista, responsável por levantar os requisitos, e os desenvolvedores, responsáveis por implementar aquilo que foi modelado. Por tanto, de acordo com a metodologia apresentada no tópico METODOLOGIA, após a confecção do MER mapeia-se seus elementos no DER, seguindo diversas regras essenciais para manter a rastreabilidade e integridade dos dados ao seguir de um nível de abstração à outro. A imagem 2 a seguir apresenta este artefato elaborado a partir da ferramenta brModelo versão 3.3, a qual pode ser baixada gratuitamente pela internet. </h5>
 <br> </br>
 
-(IMAGEM 2)
-<h6 align='center'> <b>Imagem 2:</b> Diagrama Entidade Relacionamento desenvolvido no app brModelo v3.3 <br> Fonte: autoria própria </h6>
+<div align="center">
+
+![Diagrama Entidade Relacionamento](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/assets/72039007/e2c763dd-5dd1-4935-b908-81747a68ea33)
+
+</div>
+
+<h6 align='center'> Imagem 2: Diagrama Entidade Relacionamento desenvolvido no app brModelo v3.3</b> <br> Fonte: autoria própria <br> Autor: Gustavo Martins Ribeiro </h6>
 <br> </br>
 
 ### DIAGRAMA LÓGICO DE DADOS (DLD)
 <h5 align='justify'> Um diagrama lógico de dados consiste em uma representação visual que descreve a estrutura e as relações dos dados em um sistema de banco de dados. Ele utiliza símbolos gráficos para representar as tabelas (relações), colunas e as conexões entre elas. O diagrama lógico de dados mostra a organização dos dados e as regras que regem esses relacionamentos, permitindo uma compreensão clara do esquema do banco de dados. Ele é uma ferramenta essencial no projeto de bancos de dados, pois ajuda os desenvolvedores e usuários a entenderem a estrutura do sistema, identificarem as entidades e seus atributos, e facilita a comunicação entre as partes envolvidas no desenvolvimento do banco de dados. Diante do exposto, este artefato (imagem 3) possui um nível de abstração muito mais próximo da implementação do que os outros dois citados (MER e DER), o qual também segue determinadas regras de mapeamento, a fim de trazer novas informações ao projeto de banco de dados em relação ao artefato que lhe deu origem (DER). </h5>
 <br> </br>
 
-(IMAGEM 3)
-<h6 align='center'> <b>Imagem 3:</b> Diagrama Lógico de Dados desenvolvido no app brModelo v3.3 <br> Fonte: autoria própria </h6>
+<div align="center">
+
+![Diagrama Logico de Dados](https://github.com/UnBArqDsw2023-1/2023.1_G3_ProjetoMercadoLivre/assets/72039007/054e8e52-30b5-4414-92b1-431a053ad4dd)
+
+
+</div>
+
+<h6 align='center'> Imagem 3: Diagrama Lógico de Dados desenvolvido no app brModelo v3.3 <br> Fonte: autoria própria <br> Autor: Gustavo Martins Ribeiro</h6>
 <br> </br>
 
 ## CONCLUSÃO
