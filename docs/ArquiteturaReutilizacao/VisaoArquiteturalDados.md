@@ -326,5 +326,5 @@ WHERE
 ## HISTÓRICO DE VERSÕES
 |    Data    | Versão |            Descrição           |       Autor     |    Revisor    |
 |  --------  |  ----  |            ----------          | --------------- |    -------    |
-| 29/06/2023 |  0.0.1 |  Criação do documento de visão arquitetural dos dados | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github)|
-| 03/07/2023 |  0.0.2 | Evolução do artefato | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github)|
+| 29/06/2023 |  0.0.1 |  Criação do documento de visão arquitetural dos dados | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github)| [Vinícius Assumpção](https://github.com/viniman27) |
+| 03/07/2023 |  0.0.2 | Evolução do artefato | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github)|[Vinícius Assumpção](https://github.com/viniman27) |
