@@ -68,8 +68,11 @@
     - [Padrões de Implementação](PadroesDeProjeto/Iniciativas-Extras/Padrões-de-Implementação.md)
   - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
-- **Arquitetura de Software & Reutilização**
+- **Arquitetura de Software & Reutilização** 
   - 4. Desenho de Software (Arquitetura & Reutilização de Software)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/DocumentoArquiteturaSoftware.md)
-    - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/ReutilizacaoSoftware.md)
+    - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/ParticipacoesArq.md)
+    - [4.4.Arquitetura & Reutilização de Software - Front](ArquiteturaReutilizacao/ReultilizacaoDeSoftware-Front.md)
+    - [4.5.Arquitetura & Reutilização de Software - Back](ArquiteturaReutilizacao/ReutilizacaoSoftware.md)
+
