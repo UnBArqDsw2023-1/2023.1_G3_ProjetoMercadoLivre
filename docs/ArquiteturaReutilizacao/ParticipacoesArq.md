@@ -6,7 +6,7 @@ Contribuições
 | -- | -- | -- |
 | [Abdul Hannan](https://github.com/hannanhunny01) | Criação documentações e código de reutilização e dos padrões arquiteturais de frontend. | Excelente |
 | [Erick Levy](https://github.com/Ericklevy) |  |  |
-| [Gian medeiros](https://github.com/GianMedeiros) |  | |
+| [Gian medeiros](https://github.com/GianMedeiros) | Criação e reestruturação da versão 3 do diagrama de classes, além de auxiliar na comunicação e padronização junto aos artefatos dentro da visão arquitetural de dados do projeto. | Excelente |
 | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | Correções na documentação de reutilização e padrões arquiteturais, além da refatoração do diagrama de atividades. Revisão do diagrama de sequência. Revisão dos códigos grasp. Revisão dos diagramas e scripts banco de dados | Excelente |
 | [Gustavo Martins](https://github.com/gustavomartins-github) | Elaboração do documento de Visão Arquitetural de Dados do projeto e revisão de documentos. Participação ativa em reuniões de definição de escopo e desenvolvimento. | Excelente |
 | [Heitor Marques](https://github.com/heitormsb) | Criação documentações e código de reutilização e dos padrões arquiteturais de frontend. | Excelente |
