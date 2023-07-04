@@ -13,6 +13,9 @@
   - [Reunião 29/05/2023](Atasreuniao/Ata-29-05.md)
   - [Reunião 01/06/2023](Atasreuniao/Ata_01-06.md)
   - [Reunião 05/06/2023](Atasreuniao/Ata_05-06.md)
+  - [Reunião 20/06/2023] (Atasreuniao/Ata_20-06.md)
+  - [Reunião 29/06/2023] (Atasreuniao/Ata_29-06.md)
+
 
 - **Base**
 
