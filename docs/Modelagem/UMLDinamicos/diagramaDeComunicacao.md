@@ -100,6 +100,15 @@ Por exemplo, **3b.2.2:m5** contém a expressão de sequência **3b.2.2** e o nom
     <p>Fonte: Própria</p>
 </figcaption>
 
+## Reutilização do Diagrama de Comunicação do Mercado Livre
+
+![imagem](../../Assets/ReutilizacaodiagramaComunicacao.png)
+
+<figcaption align='center'>
+    <p>Figura 6 : Diagrama de Comunicação do de um determinado fluxo da plataforma Mercado Livre</p>
+    <p>Fonte: Própria</p>
+</figcaption>
+
 ## Referências
 
 [1] KIRILL FAKHROUTDINOV. UML communication diagrams overview - graphical notations for lifeline, message, etc. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html](https://www.uml-diagrams.org/communication-diagrams.html).
@@ -110,4 +119,4 @@ Por exemplo, **3b.2.2:m5** contém a expressão de sequência **3b.2.2** e o nom
 | ---- | ------ | --------- | ----- | ------- |
 | 13/05/2023 | 1.0 | Criação do documento inicial | [Rodolfo Cabral Neves](https://github.com/roddas) | [Erick Levy](https://github.com/Ericklevy/) |
 | 13/05/2023 | 1.1 | Criação do diagrama de comunicação do mercado livre | [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Kathlyn Lara Murussi](https://github.com/klmurussi/) |
-| 13/05/2023 | 1.2 | Adição da legenda da última figura | [Rodolfo Cabral Neves](https://github.com/roddas) e [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Erick Levy](https://github.com/Ericklevy/), [Abdul Hannan](https://github.com/hannanhunny01), [Kathlyn Lara](https://github.com/klmurussi), [Gian medeiros](https://github.com/GianMedeiros), [Vinícius Assumpção](https://github.com/viniman27) e [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 13/05/2023 | 1.2 | Adição da legenda da última figura | [Rodolfo Cabral Neves](https://github.com/roddas) e [Lucas Rodrigues Monteiro](https://github.com/nickby2) | [Erick Levy](https://github.com/Ericklevy/), [Abdul Hannan](https://github.com/hannanhunny01), [Kathlyn Lara](https://github.com/klmurussi), [Gian medeiros](https://github.com/GianMedeiros), [Vinícius Assumpção](https://github.com/viniman27) e [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) | 04/07/2023 | 1.3 | Adição da reutilização do diagrama de comunicação | [Lucas Rodrigues] (https://github.com/nickby2), [Erick Levy](https://github.com/Ericklevy/)|
