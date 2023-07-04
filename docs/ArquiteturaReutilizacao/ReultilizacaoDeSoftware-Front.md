@@ -193,6 +193,6 @@ Através desse projeto, foi possível demonstrar como a reutilização de softwa
 
 |Data | Versão | Descrição | Autor(es)|Revisores|
 | -- | -- | -- | -- |--|
-|2/07/2023|1.0|Criação do Documento| [Abdul Hannan](https://github.com/hannanhunny01) <br>  e [Heitor Marques](https://github.com/heitormsb)|
-|3/07/2023|1.0|Adicao de imagems| [Abdul Hannan](https://github.com/hannanhunny01) <br>  e [Heitor Marques](https://github.com/heitormsb)|
-|3/07/2023|1.0|Arruma imagens|[Heitor Marques](https://github.com/heitormsb)|
+|2/07/2023|1.0|Criação do Documento | [Abdul Hannan](https://github.com/hannanhunny01) <br>  e [Heitor Marques](https://github.com/heitormsb)| [Erick Levy](https://github.com/Ericklevy)
+|3/07/2023|1.0|Adicao de imagems| [Abdul Hannan](https://github.com/hannanhunny01) <br>  e [Heitor Marques](https://github.com/heitormsb)|[Erick Levy](https://github.com/Ericklevy)
+|3/07/2023|1.0|Arruma imagens|[Heitor Marques](https://github.com/heitormsb)|[Erick Levy](https://github.com/Ericklevy)
