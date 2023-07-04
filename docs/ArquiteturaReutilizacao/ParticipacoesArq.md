@@ -17,4 +17,5 @@ Contribuições
 
 Data | Versão |Descrição |Autor | Revisor
 -----|--------|----------|------|--------
-| 26/06/2023 | 1.0.0 | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+| 04/07/2023 | 1.0.0 | Criação do documento | [Vinícius Assumpção](https://github.com/viniman27) , [Gabriel Roger](https://github.com/GabrielRoger07) e [João Pedro Vaz](https://github.com/JoaoPedro0803) | [Erick Levy](https://github.com/Ericklevy) |
+
