@@ -55,5 +55,5 @@ Por meio do desenvolvimento do artefato Diagrama de Classes, assim como o result
 |1.0.1 | 15/05/2023 | 15/05/2023 | Descrição melhor do artefato | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) | [Erick Levy](https://github.com/Ericklevy), [Gian Medeiros](https://github.com/GianMedeiros), [Heitor Marques](https://github.com/heitormsb) e [Vinícius Assumpção](https://github.com/viniman27) |
 | 1.0.2 | 14/05/2023 | 28/06/2023 | Adição de versionamento | [Vinícius Assumpção](https://github.com/viniman27) |[Gabriel Roger](https://github.com/GabrielRoger07) |
 | 2.0.0 | 02/07/2023 | 03/07/2023 | restruturação 3 do diagrama de classes | [Gian Medeiros](https://github.com/GianMedeiros) | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) |
-| 2.0.1 | 03/07/2023 | 03/07/2023 | evolução da página e do diagrama de classes | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) |
+| 2.0.1 | 03/07/2023 | 03/07/2023 | evolução da página e do diagrama de classes | [Gustavo Martins Ribeiro](https://github.com/gustavomartins-github) | [Lucas Rodrigues](https://github.com/nickby2) |
 
