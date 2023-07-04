@@ -11,7 +11,6 @@ Contribuições
 | [Gustavo Martins](https://github.com/gustavomartins-github) | Elaboração do documento de Visão Arquitetural de Dados do projeto e revisão de documentos. Participação ativa em reuniões de definição de escopo e desenvolvimento. | Excelente |
 | [Heitor Marques](https://github.com/heitormsb) | Criação documentações e código de reutilização e dos padrões arquiteturais de frontend. | Excelente |
 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) | Participação na criação da documentação de reutilização e dos padrões arquiteturais. Revisão dos diagramas de sequência e de atividades. Revisão dos códigos grasp. Revisão diagramas e scripts banco de dados  | Excelente |
-| [Lucas Rodrigues](https://github.com/nickby2) |  |   |
 | [Rodolfo Neves](https://github.com/roddas) |  |   |
 | [Vinícius Assumpção](https://github.com/viniman27) |  Criação inicial da documentação de reutilização e dos padrões arquiteturais. Revisão e versionamento dos diagramas de sequência, atividades e de estados. Revisão dos códigos grasp. Revisão diagramas e scripts banco de dados  | Excelente |
 | [Lucas Rodrigues Monteiro](https://github.com/nickby2) |    |  |
